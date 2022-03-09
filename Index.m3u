@@ -189,12 +189,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="Music", DilSe Music
-https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO.png" group-title="Music",Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="Music",Pop Pataka Music
-https://live.hungama.com/linear/pop-pataka/playlist_480p/index.m3u8
+
 
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
