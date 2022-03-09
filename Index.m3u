@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg",1.ROYAL TV[BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/ZHvSsqG.png",2.CAN BANGLA [BD]
@@ -191,12 +189,13 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
 http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="Music", DilSe Music
-https://live.hungama.com/linear/dil-se/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO.png" group-title="Music",Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="Music",Pop Pataka Music
-https://live.hungama.com/linear/pop-pataka/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/GizchDO.png",Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/KybFgbZ.png",Pop Pataka Music
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
