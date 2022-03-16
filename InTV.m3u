@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="BANGLA TV",HD: BTV
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",Bangladesh Television
 http://103.149.130.122:8089/84/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: GTV
+#EXTINF:-1 tvg-logo="http://live.flixhub.net/img/gtv.jpg" group-title="Bangla",GTV HD
 http://103.149.130.122:8089/1/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: ATN BANGLA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla
 http://103.149.130.122:8089/2/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: BANGLAVISION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",Banglavision HD
 http://103.149.130.122:8089/3/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: CH9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla",Channel 9 HD
 http://103.149.130.122:8089/4/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: CH24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangla",Channel 24 HD
 http://103.149.130.122:8089/5/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: DBC NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",DBC News
 http://103.149.130.122:8089/7/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: DEEPTO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla",Deepto TV HD
 http://103.149.130.122:8089/8/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: DESH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="Bangla",Desh TV
 http://103.149.130.122:8089/9/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA TV",HD: EKHATOR
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="Bangla",71 TV
 http://103.149.130.122:8089/11/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: INDEPENDENT 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",Independent TV
 http://103.149.130.122:8089/12/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: JAMUNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",Jamuna TV
 http://103.149.130.122:8089/13/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: RTV
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/UHd3eew.png",RTV
 http://103.149.130.122:8089/14/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: SATV
+#EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png" group-title="Bangla",SATV
 http://103.149.130.122:8089/15/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: ANANDO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",Ananda TV
 http://103.149.130.122:8089/16/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: SOMOY
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangla",Shomoy TV
 http://103.149.130.122:8089/17/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: NEWS24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="Bangla",News 24 HD
 http://103.149.130.122:8089/18/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: BANGLA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",Bangla TV
 http://103.149.130.122:8089/19/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA TV",HD: ATN NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",ATN NEWS
 http://103.149.130.122:8089/49/index.m3u8
 #EXTINF:-1 group-title="BANGLA TV" tvg-logo="https://i.imgur.com/eP45j9z.png",MOHONA TV
 http://103.149.130.122:8089/50/index.m3u8
@@ -51,7 +51,7 @@ http://103.149.130.122:8089/56/index.m3u8
 http://103.149.130.122:8089/61/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA TV",ASIAN TV
 http://103.149.130.122:8089/62/index.m3u8
-#EXTINF:-1 group-title="BANGLA TV",HD: EKUSSEY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla",Ekusey TV
 http://103.149.130.122:8089/65/index.m3u8
 
 
@@ -84,7 +84,7 @@ http://103.149.130.122:8089/67/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
 http://103.149.130.122:8089/68/index.m3u8
 
-#EXTINF:-1 group-title="Hindi",HD: &TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",& TV HD
 http://103.149.130.122:8089/74/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
 http://103.149.130.122:8089/75/index.m3u8
@@ -92,15 +92,15 @@ http://103.149.130.122:8089/75/index.m3u8
 http://103.149.130.122:8089/76/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/9056B1t.png",Sony Max HD
 http://103.149.130.122:8089/77/index.m3u8
-
-#EXTINF:-1 group-title="Hindi",HD: ZEE BOLLYWOOD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",Zee Action
+http://103.149.130.122:8089/90/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",Zee Bolywood
 http://103.149.130.122:8089/94/index.m3u8
 
 #EXTINF:-1 group-title="Hindi",HD: Bflix
 http://103.149.130.122:8089/97/index.m3u8
 
-#EXTINF:-1 group-title="Hindi",HD: ZEE ACTION 
-http://103.149.130.122:8089/90/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Sports",HD: ESPN
@@ -120,9 +120,9 @@ http://103.149.130.122:8089/27/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/pFgUCZF.png",Star Sports Select 2 HD
 http://103.149.130.122:8089/28/index.m3u8
 
-#EXTINF:-1 group-title="Sports",HD: SKY SPORTS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",Sky Sports
 http://103.149.130.122:8089/71/index.m3u8
-#EXTINF:-1 group-title="Sports",HD: PTV SPORTS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="Sports",PTV Sports 
 http://103.149.130.122:8089/73/index.m3u8
 
 
@@ -137,7 +137,7 @@ http://103.149.130.122:8089/45/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
 http://103.149.130.122:8089/44/index.m3u8
-#EXTINF:-1 group-title="Documentary",HD: WILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",National Geographic Wild
 http://103.149.130.122:8089/35/index.m3u8
 #EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://imgur.com/542VNXV.png",Nick
 http://103.149.130.122:8089/55/index.m3u8
@@ -156,7 +156,7 @@ http://103.149.130.122:8089/46/index.m3u8
 http://103.149.130.122:8089/48/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
 http://103.149.130.122:8089/60/index.m3u8
-#EXTINF:-1 group-title="Music",HD: ZING
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",Zing music
 http://103.149.130.122:8089/93/index.m3u8
-#EXTINF:-1 group-title="Music",HD: 9XM JALWA
+#EXTINF:-1 group-title="Music",HD: 9X JALWA
 http://103.149.130.122:8089/98/index.m3u8
