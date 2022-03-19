@@ -34,6 +34,7 @@ http://103.149.130.122:8089/16/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="BD BANGLA",Bangla TV
 http://103.149.130.122:8089/19/index.m3u8
 
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla
@@ -124,6 +125,7 @@ http://103.149.130.122:8089/90/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",Zee Bolywood
 http://103.149.130.122:8089/94/index.m3u8
 
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/WZbjRM3.png",Sony Ten 1 HD
 http://103.149.130.122:8089/20/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/p5DzCDr.png",Sony Ten 2 HD
@@ -166,6 +168,7 @@ https://cdnr.appv.jagobd.com:444/live-orgin/rtvmusic.stream/chunks.m3u8
 https://somoy.appv.jagobd.com:444/somoy/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD-MUSIC" tvg-logo="https://i.imgur.com/oMXI9Dv.png",GAAN BANGLA
 http://103.149.130.122:8089/58/index.m3u8
+
 #EXTINF:-1 group-title="BD-MUSIC" tvg-logo="https://i.imgur.com/klVzNhT.png",SANGEET BANGLA
 http://103.149.130.122:8089/96/index.m3u8
 #EXTINF:-1 group-title="BD-MUSIC" tvg-logo="https://imgur.com/HG69Dgb.png",BANGLA TALKIES
@@ -173,29 +176,36 @@ http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5JJ8X2I.png" group-title="Music",MTV
 http://103.149.130.122:8089/46/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music",9XM
-http://103.149.130.122:8089/48/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music",Zoom
-http://103.149.130.122:8089/60/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",Zing
 http://103.149.130.122:8089/93/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/TWLVa2a.png" group-title="Music", 9XM
+http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ILW11oz.png" group-title="Music",B4U Music
+http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", Zoom
+http://103.55.144.46/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
+http://103.55.144.46/hls/bindass.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jLD3N3b.png" group-title="Music",SHOWBOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RB9cG6k.png" group-title="Music",ILOVE
 https://ilove.livebox.co.in/wowinhls/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/HyID9v1.png" group-title="Music", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.png" group-title="Music", MUSIC MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/ILW11oz.png" group-title="Music",B4U Music
-http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="Music", DilSe Music
-https://live.hungama.com/linear/dil-se/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO.png" group-title="Music",Kadak Music
-https://live.hungama.com/linear/kadak-hits/playlist_2.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="Music",Pop Pataka Music
-https://live.hungama.com/linear/pop-pataka/playlist_1.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/GizchDO.png",Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/KybFgbZ.png",Pop Pataka Music
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
 
