@@ -118,6 +118,8 @@ http://103.55.144.46/hls/stargold.m3u8
 http://103.149.130.122:8089/76/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/9056B1t.png",Sony Max HD
 http://103.149.130.122:8089/77/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
+http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",Zee Action
