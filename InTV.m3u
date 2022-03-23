@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD-BANGLA", BTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA", BTV
 http://103.149.130.122:8089/84/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="LIVE-SPORTS", GTV HD
@@ -182,12 +182,11 @@ http://103.149.130.122:8089/46/index.m3u8
 http://103.149.130.122:8089/48/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RpXwNZM.png" group-title="Music", ZoOm
 http://103.149.130.122:8089/60/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music",Zing
+#EXTINF:-1 tvg-logo="https://imgur.com/r3rq8WY.png" group-title="Music",Zing
 http://103.149.130.122:8089/93/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3mkjuTk.png",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RCKpn0U.png",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
@@ -203,7 +202,7 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.png" group-title="Music", MUSIC MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" , Boogle Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
