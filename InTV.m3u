@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA", BTV
+http://103.149.130.122:8089/53/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA", BTV WORLD 
 http://103.149.130.122:8089/84/index.m3u8
 
 
@@ -31,18 +33,15 @@ https://tempx.jagobd.com:441/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lGoxDN6.jpg"group-title="BD BANGLA", Deshe Bedeshe
 https://tempx.jagobd.com:441/live-orgin/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l76jXPz.png" group-title="BD BANGLA", NexUs TV
-https://bd.jagobd.com:444/live-orgin/nexustv.stream/chunks.m3u8
+http://103.55.144.46/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ASztPbS.png" group-title="BD BANGLA", I TV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/C1wdPgs"group-title="BD BANGLA", Cumilla 24
-https://tempskyview.jagobd.com:441/live-orgin/cumilla24.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png" group-title="BD BANGLA", Varendra TV
 https://tempe.jagobd.com:445/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png" group-title="BD BANGLA", CCN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png" group-title="BD BANGLA", K TV
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png" group-title="BD BANGLA",DESHI TV
 http://str24.l9574.com:80/514.stream/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://chsuk.tv/img/cateringcircle.png",Channel S
@@ -124,6 +123,8 @@ http://103.55.144.46/hls/jalshamovies.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/SY46rYQ.png",Zee Bangla Cinema HD
 http://103.149.130.122:8089/29/index.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/EXGKPmc.png",HUM TV FHD
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/VjlrjwQ.png",Sony Sab HD
 http://103.149.130.122:8089/36/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
@@ -134,9 +135,9 @@ http://103.149.130.122:8089/40/index.m3u8
 http://103.149.130.122:8089/67/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
 http://103.149.130.122:8089/68/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",& TV HD
 http://103.149.130.122:8089/74/index.m3u8
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
 http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/56bLnJP.png",Star Gold HD
@@ -147,6 +148,8 @@ http://103.149.130.122:8089/76/index.m3u8
 http://103.149.130.122:8089/77/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
 http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/KRjdRnV.png",DHINMOVI
+http://103.55.144.46/hls/dhin.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",Zee Action
@@ -200,18 +203,13 @@ http://103.149.130.122:8089/48/index.m3u8
 http://103.149.130.122:8089/60/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/r3rq8WY.png" group-title="Music",Zing
 http://103.149.130.122:8089/93/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3mkjuTk.png",9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-
+http://103.149.130.122:8089/98/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/PxyoUY5.png" group-title="Music", Bindaas
 http://103.55.144.46/hls/bindass.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jLD3N3b.png" group-title="Music",SHOWBOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/RB9cG6k.png" group-title="Music",ILOVE
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/HyID9v1.png" group-title="Music", MUSIC INDIA
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.png" group-title="Music", MUSIC MASTI
