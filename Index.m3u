@@ -15,8 +15,6 @@ http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FXoKFOA.png" group-title="LIVE SPORTS", T sports HD
 http://208.86.19.13:81/905.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="LIVE SPORTS", TATA IPL(T20)
-http://208.86.19.13:81/731.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58iiLb.jpg" group-title="BD BANGLA",ATN MUSIC [BD]
 https://tempx.jagobd.com:441/live-orgin/atnmusic.stream/chunks.m3u8
@@ -61,11 +59,15 @@ https://bdcast-live2.b-cdn.net/jago/1/live-orgin/varendratv.stream/chunks.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LqQp9LH.jpg" group-title="BD BANGLA",Nan IPTV [BD]
 https://bdcast-live2.b-cdn.net/jago/1/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58JCCF.jpg" group-title="BD BANGLA",NANDAN IPTV [BD]
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KCOl.jpg" group-title="BD BANGLA",CCN BANGLA [BD]
-https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KJbk.png" group-title="BD BANGLA",DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58ELBh.png" group-title="BD BANGLA",MEGNA TV
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58KCOl.jpg" group-title="BD BANGLA",CCN BANGLA
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58JCCF.jpg" group-title="BD BANGLA",NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangladeshi", BTV
 http://208.86.19.13:81/627.stream/index.m3u8
@@ -82,6 +84,26 @@ http://208.86.19.13:81/629.stream/index.m3u8
 http://208.86.19.13:81/620.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/McQwv50.png" group-title="Bangla",SATV
 http://208.86.19.13:81/613.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="BD BANGLA",My TV BD
+http://208.86.19.13:80/651.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BD BANGLA",NTV BD
+http://208.86.19.13:80/652.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BD BANGLA",ATN Bangla
+http://208.86.19.13:80/664.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.png" group-title="BD BANGLA",MOHONA TV
+http://208.86.19.13:80/681.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="BD BANGLA",Boishakhi TV
+http://208.86.19.13:80/683.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="BD BANGLA",RTV
+http://208.86.19.13:80/684.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="BD BANGLA",Channel 24
+http://208.86.19.13:80/687.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="BD BANGLA",Banglavision HD
+http://208.86.19.13:80/689.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="BD BANGLA",Shomoy TV
+http://208.86.19.13:80/693.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58EQCc.jpg" group-title="BD BANGLA",Maasranga
+http://208.86.19.13:80/686.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.png" group-title="Bangla News",Jamuna TV
 http://208.86.19.13:81/805.stream/index.m3u8
@@ -112,6 +134,10 @@ http://208.86.19.13:81/518.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BD BANGLA", I TV
 http://208.86.19.13:81/512.stream/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://imgpile.com/images/58Mkc4.png" group-title="Indian Bangla",Amar bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c76kK2K.png" group-title="Indian Bangla", Akash Aath
 http://208.86.19.13:81/902.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="Indian Bangla", Sun Bangla
@@ -187,9 +213,9 @@ http://208.86.19.13:81/713.stream/index.m3u8
 http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6H2uZgL.png" group-title="Sports", Ten Sports
 http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/js9Pey4.png" group-title="Sports",willow HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/js9Pey4.png" group-title="Sports", willow HD
 http://208.86.19.13:81/731.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQd05fk.png" group-title="Sports",Astro Cricket
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQd05fk.png" group-title="Sports", Astro Cricket
 http://208.86.19.13:81/707.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="Music", SANGEET BANGLA
@@ -197,10 +223,16 @@ http://208.86.19.13:81/907.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ILW11oz.png" group-title="Music", B4U Music
 http://208.86.19.13:81/733.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/t4j8hjhh.png" group-title="Hindi Music",9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/HyID9v1.png" group-title="Hindi Music", MusicIndia
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_720p/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/E4NcxwB.jpg",9X Jalwaa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_720p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml_720p/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+
 
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
