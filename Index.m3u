@@ -189,8 +189,6 @@ http://208.86.19.13:81/722.stream/index.m3u8
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XRIrle0.png" group-title="BOLLYWOOD",IN: BBOPLAY
 https://cutt.ly/Fcn-BboPlay
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
 http://208.86.19.13:81/710.stream/index.m3u8
