@@ -163,7 +163,7 @@ http://208.86.19.13:81/721.stream/index.m3u8
 http://208.86.19.13:81/723.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", SONY HD 
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+https://bit.ly/3JXT2Wl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJc3ZU3.png" group-title="Hindi", SONY SAB HD
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", COLORS HD
@@ -187,6 +187,8 @@ http://208.86.19.13:81/701.stream/index.m3u8
 http://208.86.19.13:81/722.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jlWbKAv.png" group-title="Hindi Movie", Star Gold Select HD
 http://208.86.19.13:81/709.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XRIrle0.png" group-title="BOLLYWOOD",IN: BBOPLAY
+https://cutt.ly/Fcn-BboPlay
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movies",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
@@ -224,24 +226,22 @@ http://208.86.19.13:81/907.stream/index.m3u8
 http://208.86.19.13:81/733.stream/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_720p/9XM-audio_208482_und=208000-video=877600.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/E4NcxwB.jpg",9X Jalwaa
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_720p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TNk56Ai.png",Sangeet Bangla
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml_720p/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-
-
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/mK7h8O1.png",DilSe Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mK7h8O1.png" group-title="Hindi Music",DilSe Music
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/GizchDO.png",Kadak Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GizchDO.png" group-title="Hindi Music",Kadak Music
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://imgur.com/KybFgbZ.png",Pop Pataka Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KybFgbZ.png" group-title="Hindi Music",Pop Pataka Music
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.imgur.com/RPRT3Zq.png",Bol Hadippa
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPRT3Zq.png" group-title="Hindi Music",Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ll7AZ3P.png" group-title="Hindi Music", ARTIST ALOUD
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+
 
 
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
