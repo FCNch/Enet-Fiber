@@ -157,8 +157,6 @@ http://iptv.fcnonline.xyz/1234/1234/392.m3u8
 http://iptv.fcnonline.xyz/1234/1234/461.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 HD
 http://iptv.fcnonline.xyz/1234/1234/347.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 FHD
-http://iptv.fcnonline.xyz/1234/1234/406.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2 HD
 http://iptv.fcnonline.xyz/1234/1234/349.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2 FHD
@@ -169,10 +167,6 @@ http://iptv.fcnonline.xyz/1234/1234/350.m3u8
 http://iptv.fcnonline.xyz/1234/1234/352.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SE 2 HD
 http://iptv.fcnonline.xyz/1234/1234/354.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SE 1 FHD
-http://iptv.fcnonline.xyz/1234/1234/383.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SE 2 FHD
-http://iptv.fcnonline.xyz/1234/1234/384.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN1 HD
 http://iptv.fcnonline.xyz/1234/1234/328.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN2 HD
