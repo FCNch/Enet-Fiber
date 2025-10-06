@@ -1,0 +1,128 @@
+#EXTM3U
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN NEWS [BD]
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN BANGLA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", STAR PLUS HD
+http://51.15.7.9:3141/starplus/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",Star gold
+http://51.15.7.9:3141/stargold/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg2.png",Star gold2
+http://51.15.7.9:3141/stargold2/index.m3u8
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png", STAR MOVIES HD
+http://51.15.7.9:3141/starmovies/index.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", STAR PLUS HD
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png", ZEE TV HD
+http://hd.fcnonline.xyz/ZEE_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png", &TV HD
+http://hd.fcnonline.xyz/AND_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS TV HD
+http://hd.fcnonline.xyz/COLORS_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png", SONY HD
+http://hd.fcnonline.xyz/SONY_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhss.png", SONY SAB HD
+http://hd.fcnonline.xyz/SONY_SAB_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png", SONY MAX HD
+http://hd.fcnonline.xyz/SONY_MAX_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhap.png", &PICTURES HD
+http://hd.fcnonline.xyz/AND_PICTURES_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png", ZEE CINEMA HD
+http://hd.fcnonline.xyz/ZEE_CINEMA_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhcc.png", CINEPLEX HD
+http://hd.fcnonline.xyz/COLORS_CINEPLEX_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsp.png", SONY PIX HD
+http://hd.fcnonline.xyz/SONY_PIX_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png", &FLIX HD
+http://hd.fcnonline.xyz/AND_FLIX_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png", &PRIVE HD
+http://hd.fcnonline.xyz/AND_PRIVE_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", ZEE CAFE HD
+http://hd.fcnonline.xyz/ZEE_CAFE_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png", SONY SPORTS 1 HD
+http://hd.fcnonline.xyz/TEN_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png", SONY SPORTS 2 HD
+http://hd.fcnonline.xyz/TEN_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png", SONY SPORTS 3 HD
+http://hd.fcnonline.xyz/TEN_3_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", SONY BBC EARTH HD
+http://hd.fcnonline.xyz/BBC_EARTH_HD/index.m3u8?token=test
+
+
+
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png", SONY HD
+http://51.15.7.9:3141/sethd/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png", SONY MAX HD
+http://51.15.7.9:3141/max/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm2.png", SONY MAX2
+http://51.15.7.9:3141/max2/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
+http://51.15.7.9:3141/stargold/index.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png"",Zee Cinema HD
+http://51.15.7.9:3141/zeecinema/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Zee Cafe
+http://51.15.7.9:3141/cafe/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",epic HD
+http://51.15.7.9:3141/epic/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Ten Sports 1 HD1" group-title="Sports" tvg-logo="https://i.ibb.co/CpsRgBg4/1000139559.jpg",Sony Ten Sports 1 HD1
+http://51.15.7.9:3141/ten1/index.m3u8
+#EXTINF:-1 tvg-name="Sony Ten Sports 2 HD1" group-title="Sports" tvg-logo="https://i.ibb.co/nM091bvw/1000139574.jpg",Sony Ten Sports 2 HD1
+http://51.15.7.9:3141/ten2/index.m3u8
+#EXTINF:-1 tvg-name="Sony Ten Sports 3 HD1" group-title="Sports" tvg-logo="https://i.ibb.co/CKLN2vkF/1000139575.jpg",Sony Ten Sports 3 HD1
+http://51.15.7.9:3141/ten3/index.m3u8
+#EXTINF:-1 tvg-name="Sony Ten Sports 5 HD1" group-title="Sports" tvg-logo="https://i.ibb.co/FbFMycQR/1000139591.jpg",Sony Ten Sports 5 HD1
+http://51.15.7.9:3141/ten5/index.m3u8
+
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", STAR PLUS HD
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png", ZEE TV HD
+http://hd.fcnonline.xyz/ZEE_TV_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png", &TV HD
+http://hd.fcnonline.xyz/AND_TV_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS TV HD
+http://hd.fcnonline.xyz/COLORS_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png", SONY HD
+http://hd.fcnonline.xyz/SONY_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhss.png", SONY SAB HD
+http://hd.fcnonline.xyz/SONY_SAB_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png", SONY MAX HD
+http://hd.fcnonline.xyz/SONY_MAX_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhap.png", &PICTURES HD
+http://hd.fcnonline.xyz/AND_PICTURES_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png", ZEE CINEMA HD
+http://hd.fcnonline.xyz/ZEE_CINEMA_HD/index.mpd?token=test
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhcc.png", CINEPLEX HD
+http://hd.fcnonline.xyz/COLORS_CINEPLEX_HD/index.mpd?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsp.png", SONY PIX HD
+http://hd.fcnonline.xyz/SONY_PIX_HD/index.mpd?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png", &FLIX HD
+http://hd.fcnonline.xyz/AND_FLIX_HD/index.mpd?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png", &PRIVE HD
+http://hd.fcnonline.xyz/AND_PRIVE_HD/index.mpd?token=test
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", ZEE CAFE HD
+http://hd.fcnonline.xyz/ZEE_CAFE_HD/index.mpd?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png", SONY SPORTS 1 HD
+http://hd.fcnonline.xyz/TEN_1_HD/index.mpd?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png", SONY SPORTS 2 HD
+http://hd.fcnonline.xyz/TEN_2_HD/index.mpd?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png", SONY SPORTS 3 HD
+http://hd.fcnonline.xyz/TEN_3_HD/index.mpd?token=test
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png", SONY BBC EARTH HD
+http://hd.fcnonline.xyz/BBC_EARTH_HD/index.mpd?token=test
