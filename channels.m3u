@@ -1,215 +1,204 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="http://texas.fcnispbd.com/assets/images/T SPORTS1744972630.png" group-title="Sports",T SPORTS
-http://texas.fcnispbd.com/player.php?stream=1
-#EXTINF:-1 tvg-id="92" tvg-logo="http://texas.fcnispbd.com/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
-http://texas.fcnispbd.com/player.php?stream=92
-#EXTINF:-1 tvg-id="88" tvg-logo="http://texas.fcnispbd.com/assets/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
-http://texas.fcnispbd.com/player.php?stream=88
-#EXTINF:-1 tvg-id="2" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
-http://texas.fcnispbd.com/player.php?stream=2
-#EXTINF:-1 tvg-id="3" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
-http://texas.fcnispbd.com/player.php?stream=3
-#EXTINF:-1 tvg-id="31" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
-http://texas.fcnispbd.com/player.php?stream=31
-#EXTINF:-1 tvg-id="28" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR SELECT 1 HD1745038777.png" group-title="Sports",STAR SELECT 1 HD
-http://texas.fcnispbd.com/player.php?stream=28
-#EXTINF:-1 tvg-id="16" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="Sports",STAR SELECT 2 HD
-http://texas.fcnispbd.com/player.php?stream=16
-#EXTINF:-1 tvg-id="74" tvg-logo="http://texas.fcnispbd.com/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-http://texas.fcnispbd.com/player.php?stream=74
-#EXTINF:-1 tvg-id="29" tvg-logo="http://texas.fcnispbd.com/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-http://texas.fcnispbd.com/player.php?stream=29
-#EXTINF:-1 tvg-id="30" tvg-logo="http://texas.fcnispbd.com/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://texas.fcnispbd.com/player.php?stream=30
-#EXTINF:-1 tvg-id="72" tvg-logo="http://texas.fcnispbd.com/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-http://texas.fcnispbd.com/player.php?stream=72
-#EXTINF:-1 tvg-id="101" tvg-logo="http://texas.fcnispbd.com/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-http://texas.fcnispbd.com/player.php?stream=101
-#EXTINF:-1 tvg-id="96" tvg-logo="http://texas.fcnispbd.com/assets/images/ssc 1 hd.png" group-title="Sports",SSC SPORTS
-http://texas.fcnispbd.com/player.php?stream=96
-#EXTINF:-1 tvg-id="103" tvg-logo="http://texas.fcnispbd.com/assets/images/ssc 5 hd.png" group-title="Sports",SSC SPORTS 5 HD
-http://texas.fcnispbd.com/player.php?stream=103
-#EXTINF:-1 tvg-id="40" tvg-logo="http://texas.fcnispbd.com/assets/images/EUROSPORTS HD1745040406.png" group-title="Sports",EUROSPORTS HD
-http://texas.fcnispbd.com/player.php?stream=40
-#EXTINF:-1 tvg-id="87" tvg-logo="http://texas.fcnispbd.com/assets/images/FAST SPORTS HD1745044750.png" group-title="Sports",FAST SPORTS HD
-http://texas.fcnispbd.com/player.php?stream=87
-#EXTINF:-1 tvg-id="66" tvg-logo="http://texas.fcnispbd.com/assets/images/GOLF SPORTS1745043338.png" group-title="Sports",GOLF SPORTS
-http://texas.fcnispbd.com/player.php?stream=66
+#EXTINF:-1 tvg-id="1" tvg-logo="http://texas.bkdnet.xyz/assets/images/T SPORTS1744972630.png" group-title="Sports",T SPORTS
+http://texas.bkdnet.xyz/player.php?stream=1
+#EXTINF:-1 tvg-id="92" tvg-logo="http://texas.bkdnet.xyz/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
+http://texas.bkdnet.xyz/player.php?stream=92
+#EXTINF:-1 tvg-id="88" tvg-logo="http://texas.bkdnet.xyz/assets/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
+http://texas.bkdnet.xyz/player.php?stream=88
+#EXTINF:-1 tvg-id="2" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
+http://texas.bkdnet.xyz/player.php?stream=2
+#EXTINF:-1 tvg-id="3" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
+http://texas.bkdnet.xyz/player.php?stream=3
+#EXTINF:-1 tvg-id="31" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
+http://texas.bkdnet.xyz/player.php?stream=31
+#EXTINF:-1 tvg-id="28" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SELECT 1 HD1745038777.png" group-title="Sports",STAR SELECT 1 HD
+http://texas.bkdnet.xyz/player.php?stream=28
+#EXTINF:-1 tvg-id="16" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="Sports",STAR SELECT 2 HD
+http://texas.bkdnet.xyz/player.php?stream=16
+#EXTINF:-1 tvg-id="74" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
+http://texas.bkdnet.xyz/player.php?stream=74
+#EXTINF:-1 tvg-id="29" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
+http://texas.bkdnet.xyz/player.php?stream=29
+#EXTINF:-1 tvg-id="30" tvg-logo="http://texas.bkdnet.xyz/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
+http://texas.bkdnet.xyz/player.php?stream=30
+#EXTINF:-1 tvg-id="72" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
+http://texas.bkdnet.xyz/player.php?stream=72
+#EXTINF:-1 tvg-id="101" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
+http://texas.bkdnet.xyz/player.php?stream=101
+#EXTINF:-1 tvg-id="96" tvg-logo="http://texas.bkdnet.xyz/assets/images/ssc 1 hd.png" group-title="Sports",SSC SPORTS
+http://texas.bkdnet.xyz/player.php?stream=96
+#EXTINF:-1 tvg-id="103" tvg-logo="http://texas.bkdnet.xyz/assets/images/ssc 5 hd.png" group-title="Sports",SSC SPORTS 5 HD
+http://texas.bkdnet.xyz/player.php?stream=103
+#EXTINF:-1 tvg-id="40" tvg-logo="http://texas.bkdnet.xyz/assets/images/EUROSPORTS HD1745040406.png" group-title="Sports",EUROSPORTS HD
+http://texas.bkdnet.xyz/player.php?stream=40
+#EXTINF:-1 tvg-id="87" tvg-logo="http://texas.bkdnet.xyz/assets/images/FAST SPORTS HD1745044750.png" group-title="Sports",FAST SPORTS HD
+http://texas.bkdnet.xyz/player.php?stream=87
+#EXTINF:-1 tvg-id="66" tvg-logo="http://texas.bkdnet.xyz/assets/images/GOLF SPORTS1745043338.png" group-title="Sports",GOLF SPORTS
+http://texas.bkdnet.xyz/player.php?stream=66
+
+#EXTINF:-1 tvg-id="56" tvg-logo="http://texas.bkdnet.xyz/assets/images/GTV1745042853.png" group-title="Bangla",GTV
+http://texas.bkdnet.xyz/player.php?stream=56
+#EXTINF:-1 tvg-id="54" tvg-logo="http://texas.bkdnet.xyz/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
+http://texas.bkdnet.xyz/player.php?stream=54
+#EXTINF:-1 tvg-id="81" tvg-logo="http://texas.bkdnet.xyz/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
+http://texas.bkdnet.xyz/player.php?stream=81
+#EXTINF:-1 tvg-id="80" tvg-logo="http://texas.bkdnet.xyz/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
+http://texas.bkdnet.xyz/player.php?stream=80
+#EXTINF:-1 tvg-id="78" tvg-logo="http://texas.bkdnet.xyz/assets/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
+http://texas.bkdnet.xyz/player.php?stream=78
+#EXTINF:-1 tvg-id="79" tvg-logo="http://texas.bkdnet.xyz/assets/images/SOMOY TV1745044149.png" group-title="Bangla",SOMOY TV
+http://texas.bkdnet.xyz/player.php?stream=79
+#EXTINF:-1 tvg-id="95" tvg-logo="http://texas.bkdnet.xyz/assets/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
+http://texas.bkdnet.xyz/player.php?stream=95
+#EXTINF:-1 tvg-id="82" tvg-logo="http://texas.bkdnet.xyz/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
+http://texas.bkdnet.xyz/player.php?stream=82
+#EXTINF:-1 tvg-id="77" tvg-logo="http://texas.bkdnet.xyz/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
+http://texas.bkdnet.xyz/player.php?stream=77
+#EXTINF:-1 tvg-id="76" tvg-logo="http://texas.bkdnet.xyz/assets/images/JAMUNA TV1745044052.png" group-title="Bangla",JAMUNA TV
+http://texas.bkdnet.xyz/player.php?stream=76
 
 
+#EXTINF:-1 tvg-id="83" tvg-logo="http://texas.bkdnet.xyz/assets/images/MADANI TV HD1745044303.png" group-title="Islamic",MADANI TV HD
+http://texas.bkdnet.xyz/player.php?stream=83
+#EXTINF:-1 tvg-id="86" tvg-logo="http://texas.bkdnet.xyz/assets/images/PEACE TV BANGLA1745044480.png" group-title="Islamic",PEACE TV BANGLA
+http://texas.bkdnet.xyz/player.php?stream=86
+
+#EXTINF:-1 tvg-id="84" tvg-logo="http://texas.bkdnet.xyz/assets/images/ENTERR 101745044330.png" group-title="INB Bangla",ENTERR 10
+http://texas.bkdnet.xyz/player.php?stream=84
+#EXTINF:-1 tvg-id="44" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY AAT1745041124.png" group-title="IND Bangla",SONY AAT
+http://texas.bkdnet.xyz/player.php?stream=44
+#EXTINF:-1 tvg-id="17" tvg-logo="http://texas.bkdnet.xyz/assets/images/SUN BANGLA HD1745033791.png" group-title="INB Bangla",SUN BANGLA HD
+http://texas.bkdnet.xyz/player.php?stream=17
+#EXTINF:-1 tvg-id="14" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE BANGLA HD1745033633.png" group-title="ING Bangla",ZEE BANGLA HD
+http://texas.bkdnet.xyz/player.php?stream=14
+#EXTINF:-1 tvg-id="12" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS BANGLA HD1745033576.png" group-title="INB Bangla",COLORS BANGLA HD
+http://texas.bkdnet.xyz/player.php?stream=12
+#EXTINF:-1 tvg-id="18" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR JALSHA HD1745033819.png" group-title="INB Bangla",STAR JALSHA HD
+http://texas.bkdnet.xyz/player.php?stream=18
+#EXTINF:-1 tvg-id="19" tvg-logo="http://texas.bkdnet.xyz/assets/images/JALSHA MOVIES HD1745034005.png" group-title="INB Bangla",JALSHA MOVIES HD
+http://texas.bkdnet.xyz/player.php?stream=19
+#EXTINF:-1 tvg-id="43" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="INB Bangla",ZEE BANGLA CINEMA
+http://texas.bkdnet.xyz/player.php?stream=43
+#EXTINF:-1 tvg-id="47" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="INB Bangla",COLORS BANGLA CINEMA
+http://texas.bkdnet.xyz/player.php?stream=47
+
+#EXTINF:-1 tvg-id="100" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR BHARAT HD1745045255.png" group-title="Hindi",STAR BHARAT HD
+http://texas.bkdnet.xyz/player.php?stream=100
+#EXTINF:-1 tvg-id="24" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
+http://texas.bkdnet.xyz/player.php?stream=24
+#EXTINF:-1 tvg-id="7" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE TV HD1745033383.png" group-title="Hindi",ZEE TV HD
+http://texas.bkdnet.xyz/player.php?stream=7
+#EXTINF:-1 tvg-id="11" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY ENT HD1745033553.png" group-title="Hindi",SONY ENT HD
+http://texas.bkdnet.xyz/player.php?stream=11
+#EXTINF:-1 tvg-id="4" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
+http://texas.bkdnet.xyz/player.php?stream=4
+
+#EXTINF:-1 tvg-id="21" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY MAX HD1745034069.png" group-title="Hindi",SONY MAX HD
+http://texas.bkdnet.xyz/player.php?stream=21
+#EXTINF:-1 tvg-id="20" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD HD1745034037.png" group-title="Hindi",STAR GOLD HD
+http://texas.bkdnet.xyz/player.php?stream=20
+#EXTINF:-1 tvg-id="69" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
+http://texas.bkdnet.xyz/player.php?stream=69
+#EXTINF:-1 tvg-id="71" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="Hindi",STAR GOLD SELECT HD
+http://texas.bkdnet.xyz/player.php?stream=71
+#EXTINF:-1 tvg-id="13" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE CINEMA HD1745033602.png" group-title="Hindi",ZEE CINEMA HD
+http://texas.bkdnet.xyz/player.php?stream=13
+#EXTINF:-1 tvg-id="5" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND PICTURS HD1745031440.png" group-title="Hindi",AND PICTURS HD
+http://texas.bkdnet.xyz/player.php?stream=5
+#EXTINF:-1 tvg-id="61" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND XPLORE1745043080.png" group-title="Hindi",AND XPLORE
+http://texas.bkdnet.xyz/player.php?stream=61
+#EXTINF:-1 tvg-id="10" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="Hindi",COLORS CINEPLEX HD
+http://texas.bkdnet.xyz/player.php?stream=10
 
 
+#EXTINF:-1 tvg-id="53" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZING1745042718.png" group-title="Hindi",ZING
+http://texas.bkdnet.xyz/player.php?stream=53
+#EXTINF:-1 tvg-id="42" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
+http://texas.bkdnet.xyz/player.php?stream=42
+
+#EXTINF:-1 tvg-id="89" tvg-logo="http://texas.bkdnet.xyz/assets/images/HUM TV1745044837.png" group-title="Hindi",HUM TV
+http://texas.bkdnet.xyz/player.php?stream=89
+#EXTINF:-1 tvg-id="90" tvg-logo="http://texas.bkdnet.xyz/assets/images/GEO NEWS HD1745044892.png" group-title="Hindi",GEO NEWS HD
+http://texas.bkdnet.xyz/player.php?stream=90
 
 
-#EXTINF:-1 tvg-id="56" tvg-logo="http://texas.fcnispbd.com/assets/images/GTV1745042853.png" group-title="Bangla",GTV
-http://texas.fcnispbd.com/player.php?stream=56
-#EXTINF:-1 tvg-id="54" tvg-logo="http://texas.fcnispbd.com/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
-http://texas.fcnispbd.com/player.php?stream=54
-#EXTINF:-1 tvg-id="81" tvg-logo="http://texas.fcnispbd.com/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
-http://texas.fcnispbd.com/player.php?stream=81
-#EXTINF:-1 tvg-id="80" tvg-logo="http://texas.fcnispbd.com/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
-http://texas.fcnispbd.com/player.php?stream=80
-#EXTINF:-1 tvg-id="78" tvg-logo="http://texas.fcnispbd.com/assets/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
-http://texas.fcnispbd.com/player.php?stream=78
-#EXTINF:-1 tvg-id="79" tvg-logo="http://texas.fcnispbd.com/assets/images/SOMOY TV1745044149.png" group-title="Bangla",SOMOY TV
-http://texas.fcnispbd.com/player.php?stream=79
-#EXTINF:-1 tvg-id="95" tvg-logo="http://texas.fcnispbd.com/assets/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
-http://texas.fcnispbd.com/player.php?stream=95
-#EXTINF:-1 tvg-id="82" tvg-logo="http://texas.fcnispbd.com/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
-http://texas.fcnispbd.com/player.php?stream=82
-#EXTINF:-1 tvg-id="77" tvg-logo="http://texas.fcnispbd.com/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
-http://texas.fcnispbd.com/player.php?stream=77
-#EXTINF:-1 tvg-id="76" tvg-logo="http://texas.fcnispbd.com/assets/images/JAMUNA TV1745044052.png" group-title="Bangla",JAMUNA TV
-http://texas.fcnispbd.com/player.php?stream=76
+#EXTINF:-1 tvg-id="36" tvg-logo="http://texas.bkdnet.xyz/assets/images/MN PLUS1745040057.png" group-title="English",MN PLUS
+http://texas.bkdnet.xyz/player.php?stream=36
+#EXTINF:-1 tvg-id="33" tvg-logo="http://texas.bkdnet.xyz/assets/images/MNX HD1745039955.png" group-title="English",MNX HD
+http://texas.bkdnet.xyz/player.php?stream=33
+#EXTINF:-1 tvg-id="39" tvg-logo="http://texas.bkdnet.xyz/assets/images/MOVIES NOW HD1745040368.png" group-title="English",MOVIES NOW HD
+http://texas.bkdnet.xyz/player.php?stream=39
+#EXTINF:-1 tvg-id="32" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY PIX HD1745039925.png" group-title="English",SONY PIX HD
+http://texas.bkdnet.xyz/player.php?stream=32
+#EXTINF:-1 tvg-id="38" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
+http://texas.bkdnet.xyz/player.php?stream=38
+#EXTINF:-1 tvg-id="27" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
+http://texas.bkdnet.xyz/player.php?stream=27
+#EXTINF:-1 tvg-id="37" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE CAFE HD1745040102.png" group-title="English",ZEE CAFE HD
+http://texas.bkdnet.xyz/player.php?stream=37
+#EXTINF:-1 tvg-id="34" tvg-logo="http://texas.bkdnet.xyz/assets/images/ROMEDY NOW1745039988.png" group-title="English",ROMEDY NOW
+http://texas.bkdnet.xyz/player.php?stream=34
+#EXTINF:-1 tvg-id="97" tvg-logo="http://texas.bkdnet.xyz/assets/images/AXN HD1745045171.png" group-title="English",AXN HD
+http://texas.bkdnet.xyz/player.php?stream=97
+#EXTINF:-1 tvg-id="91" tvg-logo="http://texas.bkdnet.xyz/assets/images/LOTUS TV1745044960.png" group-title="English",LOTUS TV
+http://texas.bkdnet.xyz/player.php?stream=91
+#EXTINF:-1 tvg-id="67" tvg-logo="http://texas.bkdnet.xyz/assets/images/LOVE NATURE1745043370.png" group-title="English",LOVE NATURE
+http://texas.bkdnet.xyz/player.php?stream=67
 
 
-#EXTINF:-1 tvg-id="83" tvg-logo="http://texas.fcnispbd.com/assets/images/MADANI TV HD1745044303.png" group-title="Islamic",MADANI TV HD
-http://texas.fcnispbd.com/player.php?stream=83
-#EXTINF:-1 tvg-id="86" tvg-logo="http://texas.fcnispbd.com/assets/images/PEACE TV BANGLA1745044480.png" group-title="Islamic",PEACE TV BANGLA
-http://texas.fcnispbd.com/player.php?stream=86
+#EXTINF:-1 tvg-id="35" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND FLIX HD1745040018.png" group-title="English",AND FLIX HD
+http://texas.bkdnet.xyz/player.php?stream=35
+#EXTINF:-1 tvg-id="41" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND PRIVE HD1745040451.png" group-title="English",AND PRIVE HD
+http://texas.bkdnet.xyz/player.php?stream=41
+
+#EXTINF:-1 tvg-id="22" tvg-logo="http://texas.bkdnet.xyz/assets/images/discovery hd.png" group-title="English",DISCOVERY HD
+http://texas.bkdnet.xyz/player.php?stream=22
+#EXTINF:-1 tvg-id="25" tvg-logo="http://texas.bkdnet.xyz/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
+http://texas.bkdnet.xyz/player.php?stream=25
+#EXTINF:-1 tvg-id="23" tvg-logo="http://texas.bkdnet.xyz/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
+http://texas.bkdnet.xyz/player.php?stream=23
+#EXTINF:-1 tvg-id="6" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH HD
+http://texas.bkdnet.xyz/player.php?stream=6
+#EXTINF:-1 tvg-id="26" tvg-logo="http://texas.bkdnet.xyz/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET HD
+http://texas.bkdnet.xyz/player.php?stream=26
+#EXTINF:-1 tvg-id="102" tvg-logo="http://texas.bkdnet.xyz/assets/images/BBC EARTH HD1745150455.png" group-title="English",BBC EARTH HD
+http://texas.bkdnet.xyz/player.php?stream=102
 
 
-
-#EXTINF:-1 tvg-id="84" tvg-logo="http://texas.fcnispbd.com/assets/images/ENTERR 101745044330.png" group-title="INB Bangla",ENTERR 10
-http://texas.fcnispbd.com/player.php?stream=84
-#EXTINF:-1 tvg-id="44" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY AAT1745041124.png" group-title="IND Bangla",SONY AAT
-http://texas.fcnispbd.com/player.php?stream=44
-#EXTINF:-1 tvg-id="17" tvg-logo="http://texas.fcnispbd.com/assets/images/SUN BANGLA HD1745033791.png" group-title="INB Bangla",SUN BANGLA HD
-http://texas.fcnispbd.com/player.php?stream=17
-#EXTINF:-1 tvg-id="14" tvg-logo="http://texas.fcnispbd.com/assets/images/ZEE BANGLA HD1745033633.png" group-title="ING Bangla",ZEE BANGLA HD
-http://texas.fcnispbd.com/player.php?stream=14
-#EXTINF:-1 tvg-id="12" tvg-logo="http://texas.fcnispbd.com/assets/images/COLORS BANGLA HD1745033576.png" group-title="INB Bangla",COLORS BANGLA HD
-http://texas.fcnispbd.com/player.php?stream=12
-#EXTINF:-1 tvg-id="18" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR JALSHA HD1745033819.png" group-title="INB Bangla",STAR JALSHA HD
-http://texas.fcnispbd.com/player.php?stream=18
-#EXTINF:-1 tvg-id="19" tvg-logo="http://texas.fcnispbd.com/assets/images/JALSHA MOVIES HD1745034005.png" group-title="INB Bangla",JALSHA MOVIES HD
-http://texas.fcnispbd.com/player.php?stream=19
-#EXTINF:-1 tvg-id="43" tvg-logo="http://texas.fcnispbd.com/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="INB Bangla",ZEE BANGLA CINEMA
-http://texas.fcnispbd.com/player.php?stream=43
-#EXTINF:-1 tvg-id="47" tvg-logo="http://texas.fcnispbd.com/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="INB Bangla",COLORS BANGLA CINEMA
-http://texas.fcnispbd.com/player.php?stream=47
+#EXTINF:-1 tvg-id="15" tvg-logo="http://texas.bkdnet.xyz/assets/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV HD
+http://texas.bkdnet.xyz/player.php?stream=15
+#EXTINF:-1 tvg-id="9" tvg-logo="http://texas.bkdnet.xyz/assets/images/TLC HD1745033484.png" group-title="English",TLC HD
+http://texas.bkdnet.xyz/player.php?stream=9
+#EXTINF:-1 tvg-id="62" tvg-logo="http://texas.bkdnet.xyz/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
+http://texas.bkdnet.xyz/player.php?stream=62
 
 
+#EXTINF:-1 tvg-id="70" tvg-logo="http://texas.bkdnet.xyz/assets/images/HITZ MUSIC1745043478.png" group-title="English",HITZ MUSIC
+http://texas.bkdnet.xyz/player.php?stream=70
 
+#EXTINF:-1 tvg-id="85" tvg-logo="http://texas.bkdnet.xyz/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
+http://texas.bkdnet.xyz/player.php?stream=85
 
-
-#EXTINF:-1 tvg-id="100" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR BHARAT HD1745045255.png" group-title="Hindi",STAR BHARAT HD
-http://texas.fcnispbd.com/player.php?stream=100
-#EXTINF:-1 tvg-id="24" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
-http://texas.fcnispbd.com/player.php?stream=24
-#EXTINF:-1 tvg-id="7" tvg-logo="http://texas.fcnispbd.com/assets/images/ZEE TV HD1745033383.png" group-title="Hindi",ZEE TV HD
-http://texas.fcnispbd.com/player.php?stream=7
-#EXTINF:-1 tvg-id="11" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY ENT HD1745033553.png" group-title="Hindi",SONY ENT HD
-http://texas.fcnispbd.com/player.php?stream=11
-#EXTINF:-1 tvg-id="4" tvg-logo="http://texas.fcnispbd.com/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
-http://texas.fcnispbd.com/player.php?stream=4
-
-#EXTINF:-1 tvg-id="21" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY MAX HD1745034069.png" group-title="Hindi",SONY MAX HD
-http://texas.fcnispbd.com/player.php?stream=21
-#EXTINF:-1 tvg-id="20" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR GOLD HD1745034037.png" group-title="Hindi",STAR GOLD HD
-http://texas.fcnispbd.com/player.php?stream=20
-#EXTINF:-1 tvg-id="69" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
-http://texas.fcnispbd.com/player.php?stream=69
-#EXTINF:-1 tvg-id="71" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="Hindi",STAR GOLD SELECT HD
-http://texas.fcnispbd.com/player.php?stream=71
-#EXTINF:-1 tvg-id="13" tvg-logo="http://texas.fcnispbd.com/assets/images/ZEE CINEMA HD1745033602.png" group-title="Hindi",ZEE CINEMA HD
-http://texas.fcnispbd.com/player.php?stream=13
-#EXTINF:-1 tvg-id="5" tvg-logo="http://texas.fcnispbd.com/assets/images/AND PICTURS HD1745031440.png" group-title="Hindi",AND PICTURS HD
-http://texas.fcnispbd.com/player.php?stream=5
-#EXTINF:-1 tvg-id="61" tvg-logo="http://texas.fcnispbd.com/assets/images/AND XPLORE1745043080.png" group-title="Hindi",AND XPLORE
-http://texas.fcnispbd.com/player.php?stream=61
-#EXTINF:-1 tvg-id="10" tvg-logo="http://texas.fcnispbd.com/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="Hindi",COLORS CINEPLEX HD
-http://texas.fcnispbd.com/player.php?stream=10
-
-
-#EXTINF:-1 tvg-id="53" tvg-logo="http://texas.fcnispbd.com/assets/images/ZING1745042718.png" group-title="Hindi",ZING
-http://texas.fcnispbd.com/player.php?stream=53
-#EXTINF:-1 tvg-id="42" tvg-logo="http://texas.fcnispbd.com/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
-http://texas.fcnispbd.com/player.php?stream=42
-
-#EXTINF:-1 tvg-id="89" tvg-logo="http://texas.fcnispbd.com/assets/images/HUM TV1745044837.png" group-title="Hindi",HUM TV
-http://texas.fcnispbd.com/player.php?stream=89
-#EXTINF:-1 tvg-id="90" tvg-logo="http://texas.fcnispbd.com/assets/images/GEO NEWS HD1745044892.png" group-title="Hindi",GEO NEWS HD
-http://texas.fcnispbd.com/player.php?stream=90
-
-
-#EXTINF:-1 tvg-id="36" tvg-logo="http://texas.fcnispbd.com/assets/images/MN PLUS1745040057.png" group-title="English",MN PLUS
-http://texas.fcnispbd.com/player.php?stream=36
-#EXTINF:-1 tvg-id="33" tvg-logo="http://texas.fcnispbd.com/assets/images/MNX HD1745039955.png" group-title="English",MNX HD
-http://texas.fcnispbd.com/player.php?stream=33
-#EXTINF:-1 tvg-id="39" tvg-logo="http://texas.fcnispbd.com/assets/images/MOVIES NOW HD1745040368.png" group-title="English",MOVIES NOW HD
-http://texas.fcnispbd.com/player.php?stream=39
-#EXTINF:-1 tvg-id="32" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY PIX HD1745039925.png" group-title="English",SONY PIX HD
-http://texas.fcnispbd.com/player.php?stream=32
-#EXTINF:-1 tvg-id="38" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
-http://texas.fcnispbd.com/player.php?stream=38
-#EXTINF:-1 tvg-id="27" tvg-logo="http://texas.fcnispbd.com/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
-http://texas.fcnispbd.com/player.php?stream=27
-#EXTINF:-1 tvg-id="37" tvg-logo="http://texas.fcnispbd.com/assets/images/ZEE CAFE HD1745040102.png" group-title="English",ZEE CAFE HD
-http://texas.fcnispbd.com/player.php?stream=37
-#EXTINF:-1 tvg-id="34" tvg-logo="http://texas.fcnispbd.com/assets/images/ROMEDY NOW1745039988.png" group-title="English",ROMEDY NOW
-http://texas.fcnispbd.com/player.php?stream=34
-#EXTINF:-1 tvg-id="97" tvg-logo="http://texas.fcnispbd.com/assets/images/AXN HD1745045171.png" group-title="English",AXN HD
-http://texas.fcnispbd.com/player.php?stream=97
-#EXTINF:-1 tvg-id="91" tvg-logo="http://texas.fcnispbd.com/assets/images/LOTUS TV1745044960.png" group-title="English",LOTUS TV
-http://texas.fcnispbd.com/player.php?stream=91
-#EXTINF:-1 tvg-id="67" tvg-logo="http://texas.fcnispbd.com/assets/images/LOVE NATURE1745043370.png" group-title="English",LOVE NATURE
-http://texas.fcnispbd.com/player.php?stream=67
-
-
-#EXTINF:-1 tvg-id="35" tvg-logo="http://texas.fcnispbd.com/assets/images/AND FLIX HD1745040018.png" group-title="English",AND FLIX HD
-http://texas.fcnispbd.com/player.php?stream=35
-#EXTINF:-1 tvg-id="41" tvg-logo="http://texas.fcnispbd.com/assets/images/AND PRIVE HD1745040451.png" group-title="English",AND PRIVE HD
-http://texas.fcnispbd.com/player.php?stream=41
-
-#EXTINF:-1 tvg-id="22" tvg-logo="http://texas.fcnispbd.com/assets/images/discovery hd.png" group-title="English",DISCOVERY HD
-http://texas.fcnispbd.com/player.php?stream=22
-#EXTINF:-1 tvg-id="25" tvg-logo="http://texas.fcnispbd.com/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
-http://texas.fcnispbd.com/player.php?stream=25
-#EXTINF:-1 tvg-id="23" tvg-logo="http://texas.fcnispbd.com/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
-http://texas.fcnispbd.com/player.php?stream=23
-#EXTINF:-1 tvg-id="6" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH HD
-http://texas.fcnispbd.com/player.php?stream=6
-#EXTINF:-1 tvg-id="26" tvg-logo="http://texas.fcnispbd.com/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET HD
-http://texas.fcnispbd.com/player.php?stream=26
-#EXTINF:-1 tvg-id="102" tvg-logo="http://texas.fcnispbd.com/assets/images/BBC EARTH HD1745150455.png" group-title="English",BBC EARTH HD
-http://texas.fcnispbd.com/player.php?stream=102
-
-
-#EXTINF:-1 tvg-id="15" tvg-logo="http://texas.fcnispbd.com/assets/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV HD
-http://texas.fcnispbd.com/player.php?stream=15
-#EXTINF:-1 tvg-id="9" tvg-logo="http://texas.fcnispbd.com/assets/images/TLC HD1745033484.png" group-title="English",TLC HD
-http://texas.fcnispbd.com/player.php?stream=9
-#EXTINF:-1 tvg-id="62" tvg-logo="http://texas.fcnispbd.com/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
-http://texas.fcnispbd.com/player.php?stream=62
-
-
-#EXTINF:-1 tvg-id="70" tvg-logo="http://texas.fcnispbd.com/assets/images/HITZ MUSIC1745043478.png" group-title="English",HITZ MUSIC
-http://texas.fcnispbd.com/player.php?stream=70
-
-#EXTINF:-1 tvg-id="85" tvg-logo="http://texas.fcnispbd.com/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
-http://texas.fcnispbd.com/player.php?stream=85
-
-#EXTINF:-1 tvg-id="75" tvg-logo="http://texas.fcnispbd.com/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
-http://texas.fcnispbd.com/player.php?stream=75
-#EXTINF:-1 tvg-id="50" tvg-logo="http://texas.fcnispbd.com/assets/images/BAL BHARAT1745041576.png" group-title="Kids",BAL BHARAT
-http://texas.fcnispbd.com/player.php?stream=50
-#EXTINF:-1 tvg-id="8" tvg-logo="http://texas.fcnispbd.com/assets/images/CARTOON NETWORK1745033414.png" group-title="Kids",CARTOON NETWORK
-http://texas.fcnispbd.com/player.php?stream=8
-#EXTINF:-1 tvg-id="68" tvg-logo="http://texas.fcnispbd.com/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
-http://texas.fcnispbd.com/player.php?stream=68
-#EXTINF:-1 tvg-id="49" tvg-logo="http://texas.fcnispbd.com/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
-http://texas.fcnispbd.com/player.php?stream=49
-#EXTINF:-1 tvg-id="46" tvg-logo="http://texas.fcnispbd.com/assets/images/NICK1745041451.png" group-title="Kids",NICK
-http://texas.fcnispbd.com/player.php?stream=46
-#EXTINF:-1 tvg-id="51" tvg-logo="http://texas.fcnispbd.com/assets/images/NICK JR1745042397.png" group-title="Kids",NICK JR
-http://texas.fcnispbd.com/player.php?stream=51
-#EXTINF:-1 tvg-id="48" tvg-logo="http://texas.fcnispbd.com/assets/images/POGO1745041515.png" group-title="Kids",POGO
-http://texas.fcnispbd.com/player.php?stream=48
-#EXTINF:-1 tvg-id="45" tvg-logo="http://texas.fcnispbd.com/assets/images/SONIC1745041154.png" group-title="Kids",SONIC
-http://texas.fcnispbd.com/player.php?stream=45
-#EXTINF:-1 tvg-id="93" tvg-logo="http://texas.fcnispbd.com/assets/images/SONY YAY1745045046.png" group-title="Kids",SONY YAY
-http://texas.fcnispbd.com/player.php?stream=93
+#EXTINF:-1 tvg-id="75" tvg-logo="http://texas.bkdnet.xyz/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
+http://texas.bkdnet.xyz/player.php?stream=75
+#EXTINF:-1 tvg-id="50" tvg-logo="http://texas.bkdnet.xyz/assets/images/BAL BHARAT1745041576.png" group-title="Kids",BAL BHARAT
+http://texas.bkdnet.xyz/player.php?stream=50
+#EXTINF:-1 tvg-id="8" tvg-logo="http://texas.bkdnet.xyz/assets/images/CARTOON NETWORK1745033414.png" group-title="Kids",CARTOON NETWORK
+http://texas.bkdnet.xyz/player.php?stream=8
+#EXTINF:-1 tvg-id="68" tvg-logo="http://texas.bkdnet.xyz/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
+http://texas.bkdnet.xyz/player.php?stream=68
+#EXTINF:-1 tvg-id="49" tvg-logo="http://texas.bkdnet.xyz/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
+http://texas.bkdnet.xyz/player.php?stream=49
+#EXTINF:-1 tvg-id="46" tvg-logo="http://texas.bkdnet.xyz/assets/images/NICK1745041451.png" group-title="Kids",NICK
+http://texas.bkdnet.xyz/player.php?stream=46
+#EXTINF:-1 tvg-id="51" tvg-logo="http://texas.bkdnet.xyz/assets/images/NICK JR1745042397.png" group-title="Kids",NICK JR
+http://texas.bkdnet.xyz/player.php?stream=51
+#EXTINF:-1 tvg-id="48" tvg-logo="http://texas.bkdnet.xyz/assets/images/POGO1745041515.png" group-title="Kids",POGO
+http://texas.bkdnet.xyz/player.php?stream=48
+#EXTINF:-1 tvg-id="45" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONIC1745041154.png" group-title="Kids",SONIC
+http://texas.bkdnet.xyz/player.php?stream=45
+#EXTINF:-1 tvg-id="93" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY YAY1745045046.png" group-title="Kids",SONY YAY
+http://texas.bkdnet.xyz/player.php?stream=93
 
 
 
