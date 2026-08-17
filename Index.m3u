@@ -5,7 +5,7 @@ http://iptv.fcnonline.xyz/ontest1/ontest1/124.m3u8
 http://iptv.fcnonline.xyz/ontest1/ontest1/125.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/madani.png",SAUDI SUNAH
 http://iptv.fcnonline.xyz/ontest1/ontest1/126.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/madani.png",MADANI
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/iqra.png",IQRA TV
 http://iptv.fcnonline.xyz/ontest1/ontest1/142.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",GAZI TV HD
@@ -35,22 +35,16 @@ http://iptv.fcnonline.xyz/ontest1/ontest1/8.m3u8
 http://iptv.fcnonline.xyz/ontest1/ontest1/10.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png",MYTV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/11.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mohona.png",MOHONA TV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/13.m3u8
-
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",ASIAN TV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/19.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png",SATV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/20.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png",BANGLA TV
 http://iptv.fcnonline.xyz/ontest1/ontest1/25.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/deepto.png",DEEPTO TV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/22.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png",EKHON TV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/29.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png",ANANDO TV HD
@@ -59,20 +53,15 @@ http://iptv.fcnonline.xyz/ontest1/ontest1/28.m3u8
 http://iptv.fcnonline.xyz/ontest1/ontest1/30.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png",DUTONTO TV HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/26.m3u8
-
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/bj.png",BIJOY TV
 http://iptv.fcnonline.xyz/ontest1/ontest1/128.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/nexus.png",NEXUS TV
 http://iptv.fcnonline.xyz/ontest1/ontest1/144.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png",Global TV
 http://iptv.fcnonline.xyz/ontest1/ontest1/143.m3u8
-
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png",CHANNEL9 HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/132.m3u8
-
-
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chs.png",CHANNEL S HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chss.png",CHANNEL S HD
 http://iptv.fcnonline.xyz/ontest1/ontest1/139.m3u8
 
 
