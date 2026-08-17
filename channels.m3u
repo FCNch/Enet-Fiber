@@ -1,207 +1,199 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="http://texas.bkdnet.xyz/assets/images/T SPORTS1744972630.png" group-title="Sports",T SPORTS
-http://texas.bkdnet.xyz/player.php?stream=1
-#EXTINF:-1 tvg-id="92" tvg-logo="http://texas.bkdnet.xyz/assets/images/PTV SPORTS HD1745044993.png" group-title="Sports",PTV SPORTS HD
-http://texas.bkdnet.xyz/player.php?stream=92
-#EXTINF:-1 tvg-id="88" tvg-logo="http://texas.bkdnet.xyz/assets/images/A SPORTS HD1745044782.png" group-title="Sports",A SPORTS HD
-http://texas.bkdnet.xyz/player.php?stream=88
-#EXTINF:-1 tvg-id="2" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="Sports",STAR SPORTS 1 HD
-http://texas.bkdnet.xyz/player.php?stream=2
-#EXTINF:-1 tvg-id="3" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="Sports",STAR SPORTS 2 HD
-http://texas.bkdnet.xyz/player.php?stream=3
-#EXTINF:-1 tvg-id="31" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS 31745039893.png" group-title="Sports",STAR SPORTS 3
-http://texas.bkdnet.xyz/player.php?stream=31
-#EXTINF:-1 tvg-id="28" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SELECT 1 HD1745038777.png" group-title="Sports",STAR SELECT 1 HD
-http://texas.bkdnet.xyz/player.php?stream=28
-#EXTINF:-1 tvg-id="16" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="Sports",STAR SELECT 2 HD
-http://texas.bkdnet.xyz/player.php?stream=16
-#EXTINF:-1 tvg-id="74" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 1 hd.png" group-title="Sports",SONY SPORTS 1 HD
-http://texas.bkdnet.xyz/player.php?stream=74
-#EXTINF:-1 tvg-id="29" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 2 hd.png" group-title="Sports",SONY SPORTS 2 HD
-http://texas.bkdnet.xyz/player.php?stream=29
-#EXTINF:-1 tvg-id="30" tvg-logo="http://texas.bkdnet.xyz/assets/images/Sony sports 3.png" group-title="Sports",SONY SPORTS 3
-http://texas.bkdnet.xyz/player.php?stream=30
-#EXTINF:-1 tvg-id="72" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 4.png" group-title="Sports",SONY SPORTS 4
-http://texas.bkdnet.xyz/player.php?stream=72
-#EXTINF:-1 tvg-id="101" tvg-logo="http://texas.bkdnet.xyz/assets/images/sony sports 5 hd.png" group-title="Sports",SONY SPORTS 5 HD
-http://texas.bkdnet.xyz/player.php?stream=101
-#EXTINF:-1 tvg-id="96" tvg-logo="http://texas.bkdnet.xyz/assets/images/ssc 1 hd.png" group-title="Sports",SSC SPORTS
-http://texas.bkdnet.xyz/player.php?stream=96
-#EXTINF:-1 tvg-id="103" tvg-logo="http://texas.bkdnet.xyz/assets/images/ssc 5 hd.png" group-title="Sports",SSC SPORTS 5 HD
-http://texas.bkdnet.xyz/player.php?stream=103
-#EXTINF:-1 tvg-id="40" tvg-logo="http://texas.bkdnet.xyz/assets/images/EUROSPORTS HD1745040406.png" group-title="Sports",EUROSPORTS HD
-http://texas.bkdnet.xyz/player.php?stream=40
-#EXTINF:-1 tvg-id="87" tvg-logo="http://texas.bkdnet.xyz/assets/images/FAST SPORTS HD1745044750.png" group-title="Sports",FAST SPORTS HD
-http://texas.bkdnet.xyz/player.php?stream=87
-#EXTINF:-1 tvg-id="66" tvg-logo="http://texas.bkdnet.xyz/assets/images/GOLF SPORTS1745043338.png" group-title="Sports",GOLF SPORTS
-http://texas.bkdnet.xyz/player.php?stream=66
-
-#EXTINF:-1 tvg-id="56" tvg-logo="http://texas.bkdnet.xyz/assets/images/GTV1745042853.png" group-title="Bangla",GTV
-http://texas.bkdnet.xyz/player.php?stream=56
-#EXTINF:-1 tvg-id="54" tvg-logo="http://texas.bkdnet.xyz/assets/images/NAGORIK1745042776.png" group-title="Bangla",NAGORIK
-http://texas.bkdnet.xyz/player.php?stream=54
-#EXTINF:-1 tvg-id="81" tvg-logo="http://texas.bkdnet.xyz/assets/images/CHANNEL I1745044237.png" group-title="Bangla",CHANNEL I
-http://texas.bkdnet.xyz/player.php?stream=81
-#EXTINF:-1 tvg-id="80" tvg-logo="http://texas.bkdnet.xyz/assets/images/ATN BANGLA1745044183.png" group-title="Bangla",ATN BANGLA
-http://texas.bkdnet.xyz/player.php?stream=80
-#EXTINF:-1 tvg-id="78" tvg-logo="http://texas.bkdnet.xyz/assets/images/MAASRANGA HD1745044117.png" group-title="Bangla",MAASRANGA HD
-http://texas.bkdnet.xyz/player.php?stream=78
-#EXTINF:-1 tvg-id="79" tvg-logo="http://texas.bkdnet.xyz/assets/images/SOMOY TV1745044149.png" group-title="Bangla",SOMOY TV
-http://texas.bkdnet.xyz/player.php?stream=79
-#EXTINF:-1 tvg-id="95" tvg-logo="http://texas.bkdnet.xyz/assets/images/ATN NEWS1745045113.png" group-title="Bangla",ATN NEWS
-http://texas.bkdnet.xyz/player.php?stream=95
-#EXTINF:-1 tvg-id="82" tvg-logo="http://texas.bkdnet.xyz/assets/images/CHANNEL 241745044263.png" group-title="Bangla",CHANNEL 24
-http://texas.bkdnet.xyz/player.php?stream=82
-#EXTINF:-1 tvg-id="77" tvg-logo="http://texas.bkdnet.xyz/assets/images/INDEPENDENT TV1745044077.png" group-title="Bangla",INDEPENDENT TV
-http://texas.bkdnet.xyz/player.php?stream=77
-#EXTINF:-1 tvg-id="76" tvg-logo="http://texas.bkdnet.xyz/assets/images/JAMUNA TV1745044052.png" group-title="Bangla",JAMUNA TV
-http://texas.bkdnet.xyz/player.php?stream=76
-
-
-#EXTINF:-1 tvg-id="83" tvg-logo="http://texas.bkdnet.xyz/assets/images/MADANI TV HD1745044303.png" group-title="Islamic",MADANI TV HD
-http://texas.bkdnet.xyz/player.php?stream=83
-#EXTINF:-1 tvg-id="86" tvg-logo="http://texas.bkdnet.xyz/assets/images/PEACE TV BANGLA1745044480.png" group-title="Islamic",PEACE TV BANGLA
-http://texas.bkdnet.xyz/player.php?stream=86
-
-#EXTINF:-1 tvg-id="84" tvg-logo="http://texas.bkdnet.xyz/assets/images/ENTERR 101745044330.png" group-title="INB Bangla",ENTERR 10
-http://texas.bkdnet.xyz/player.php?stream=84
-#EXTINF:-1 tvg-id="44" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY AAT1745041124.png" group-title="IND Bangla",SONY AAT
-http://texas.bkdnet.xyz/player.php?stream=44
-#EXTINF:-1 tvg-id="17" tvg-logo="http://texas.bkdnet.xyz/assets/images/SUN BANGLA HD1745033791.png" group-title="INB Bangla",SUN BANGLA HD
-http://texas.bkdnet.xyz/player.php?stream=17
-#EXTINF:-1 tvg-id="14" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE BANGLA HD1745033633.png" group-title="ING Bangla",ZEE BANGLA HD
-http://texas.bkdnet.xyz/player.php?stream=14
-#EXTINF:-1 tvg-id="12" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS BANGLA HD1745033576.png" group-title="INB Bangla",COLORS BANGLA HD
-http://texas.bkdnet.xyz/player.php?stream=12
-#EXTINF:-1 tvg-id="18" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR JALSHA HD1745033819.png" group-title="INB Bangla",STAR JALSHA HD
-http://texas.bkdnet.xyz/player.php?stream=18
-#EXTINF:-1 tvg-id="19" tvg-logo="http://texas.bkdnet.xyz/assets/images/JALSHA MOVIES HD1745034005.png" group-title="INB Bangla",JALSHA MOVIES HD
-http://texas.bkdnet.xyz/player.php?stream=19
-#EXTINF:-1 tvg-id="43" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="INB Bangla",ZEE BANGLA CINEMA
-http://texas.bkdnet.xyz/player.php?stream=43
-#EXTINF:-1 tvg-id="47" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS BANGLA CINEMA1745041486.png" group-title="INB Bangla",COLORS BANGLA CINEMA
-http://texas.bkdnet.xyz/player.php?stream=47
-
-#EXTINF:-1 tvg-id="100" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR BHARAT HD1745045255.png" group-title="Hindi",STAR BHARAT HD
-http://texas.bkdnet.xyz/player.php?stream=100
-#EXTINF:-1 tvg-id="24" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR PLUS HD1745038577.png" group-title="Hindi",STAR PLUS HD
-http://texas.bkdnet.xyz/player.php?stream=24
-#EXTINF:-1 tvg-id="7" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE TV HD1745033383.png" group-title="Hindi",ZEE TV HD
-http://texas.bkdnet.xyz/player.php?stream=7
-#EXTINF:-1 tvg-id="11" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY ENT HD1745033553.png" group-title="Hindi",SONY ENT HD
-http://texas.bkdnet.xyz/player.php?stream=11
-#EXTINF:-1 tvg-id="4" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS HD1745031404.png" group-title="Hindi",COLORS HD
-http://texas.bkdnet.xyz/player.php?stream=4
-
-#EXTINF:-1 tvg-id="21" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY MAX HD1745034069.png" group-title="Hindi",SONY MAX HD
-http://texas.bkdnet.xyz/player.php?stream=21
-#EXTINF:-1 tvg-id="20" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD HD1745034037.png" group-title="Hindi",STAR GOLD HD
-http://texas.bkdnet.xyz/player.php?stream=20
-#EXTINF:-1 tvg-id="69" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD 2 HD1745043441.png" group-title="Hindi",STAR GOLD 2 HD
-http://texas.bkdnet.xyz/player.php?stream=69
-#EXTINF:-1 tvg-id="71" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR GOLD SELECT HD1745043508.png" group-title="Hindi",STAR GOLD SELECT HD
-http://texas.bkdnet.xyz/player.php?stream=71
-#EXTINF:-1 tvg-id="13" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE CINEMA HD1745033602.png" group-title="Hindi",ZEE CINEMA HD
-http://texas.bkdnet.xyz/player.php?stream=13
-#EXTINF:-1 tvg-id="5" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND PICTURS HD1745031440.png" group-title="Hindi",AND PICTURS HD
-http://texas.bkdnet.xyz/player.php?stream=5
-#EXTINF:-1 tvg-id="61" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND XPLORE1745043080.png" group-title="Hindi",AND XPLORE
-http://texas.bkdnet.xyz/player.php?stream=61
-#EXTINF:-1 tvg-id="10" tvg-logo="http://texas.bkdnet.xyz/assets/images/COLORS CINEPLEX HD1745033519.png" group-title="Hindi",COLORS CINEPLEX HD
-http://texas.bkdnet.xyz/player.php?stream=10
-
-
-#EXTINF:-1 tvg-id="53" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZING1745042718.png" group-title="Hindi",ZING
-http://texas.bkdnet.xyz/player.php?stream=53
-#EXTINF:-1 tvg-id="42" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZOOM1745040961.png" group-title="Hindi",ZOOM
-http://texas.bkdnet.xyz/player.php?stream=42
-
-#EXTINF:-1 tvg-id="89" tvg-logo="http://texas.bkdnet.xyz/assets/images/HUM TV1745044837.png" group-title="Hindi",HUM TV
-http://texas.bkdnet.xyz/player.php?stream=89
-#EXTINF:-1 tvg-id="90" tvg-logo="http://texas.bkdnet.xyz/assets/images/GEO NEWS HD1745044892.png" group-title="Hindi",GEO NEWS HD
-http://texas.bkdnet.xyz/player.php?stream=90
-
-
-#EXTINF:-1 tvg-id="36" tvg-logo="http://texas.bkdnet.xyz/assets/images/MN PLUS1745040057.png" group-title="English",MN PLUS
-http://texas.bkdnet.xyz/player.php?stream=36
-#EXTINF:-1 tvg-id="33" tvg-logo="http://texas.bkdnet.xyz/assets/images/MNX HD1745039955.png" group-title="English",MNX HD
-http://texas.bkdnet.xyz/player.php?stream=33
-#EXTINF:-1 tvg-id="39" tvg-logo="http://texas.bkdnet.xyz/assets/images/MOVIES NOW HD1745040368.png" group-title="English",MOVIES NOW HD
-http://texas.bkdnet.xyz/player.php?stream=39
-#EXTINF:-1 tvg-id="32" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY PIX HD1745039925.png" group-title="English",SONY PIX HD
-http://texas.bkdnet.xyz/player.php?stream=32
-#EXTINF:-1 tvg-id="38" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR MOVIES HD1745040174.png" group-title="English",STAR MOVIES HD
-http://texas.bkdnet.xyz/player.php?stream=38
-#EXTINF:-1 tvg-id="27" tvg-logo="http://texas.bkdnet.xyz/assets/images/STAR MOVIES SELECT HD1745038723.png" group-title="English",STAR MOVIES SELECT HD
-http://texas.bkdnet.xyz/player.php?stream=27
-#EXTINF:-1 tvg-id="37" tvg-logo="http://texas.bkdnet.xyz/assets/images/ZEE CAFE HD1745040102.png" group-title="English",ZEE CAFE HD
-http://texas.bkdnet.xyz/player.php?stream=37
-#EXTINF:-1 tvg-id="34" tvg-logo="http://texas.bkdnet.xyz/assets/images/ROMEDY NOW1745039988.png" group-title="English",ROMEDY NOW
-http://texas.bkdnet.xyz/player.php?stream=34
-#EXTINF:-1 tvg-id="97" tvg-logo="http://texas.bkdnet.xyz/assets/images/AXN HD1745045171.png" group-title="English",AXN HD
-http://texas.bkdnet.xyz/player.php?stream=97
-#EXTINF:-1 tvg-id="91" tvg-logo="http://texas.bkdnet.xyz/assets/images/LOTUS TV1745044960.png" group-title="English",LOTUS TV
-http://texas.bkdnet.xyz/player.php?stream=91
-#EXTINF:-1 tvg-id="67" tvg-logo="http://texas.bkdnet.xyz/assets/images/LOVE NATURE1745043370.png" group-title="English",LOVE NATURE
-http://texas.bkdnet.xyz/player.php?stream=67
-
-
-#EXTINF:-1 tvg-id="35" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND FLIX HD1745040018.png" group-title="English",AND FLIX HD
-http://texas.bkdnet.xyz/player.php?stream=35
-#EXTINF:-1 tvg-id="41" tvg-logo="http://texas.bkdnet.xyz/assets/images/AND PRIVE HD1745040451.png" group-title="English",AND PRIVE HD
-http://texas.bkdnet.xyz/player.php?stream=41
-
-#EXTINF:-1 tvg-id="22" tvg-logo="http://texas.bkdnet.xyz/assets/images/discovery hd.png" group-title="English",DISCOVERY HD
-http://texas.bkdnet.xyz/player.php?stream=22
-#EXTINF:-1 tvg-id="25" tvg-logo="http://texas.bkdnet.xyz/assets/images/NATGEO HD1745038634.png" group-title="English",NATGEO HD
-http://texas.bkdnet.xyz/player.php?stream=25
-#EXTINF:-1 tvg-id="23" tvg-logo="http://texas.bkdnet.xyz/assets/images/NATGEO WILD HD1745038542.png" group-title="English",NATGEO WILD HD
-http://texas.bkdnet.xyz/player.php?stream=23
-#EXTINF:-1 tvg-id="6" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY BBC EARTH HD1745031522.png" group-title="English",SONY BBC EARTH HD
-http://texas.bkdnet.xyz/player.php?stream=6
-#EXTINF:-1 tvg-id="26" tvg-logo="http://texas.bkdnet.xyz/assets/images/ANIMAL PLANET HD1745038671.png" group-title="English",ANIMAL PLANET HD
-http://texas.bkdnet.xyz/player.php?stream=26
-#EXTINF:-1 tvg-id="102" tvg-logo="http://texas.bkdnet.xyz/assets/images/BBC EARTH HD1745150455.png" group-title="English",BBC EARTH HD
-http://texas.bkdnet.xyz/player.php?stream=102
-
-
-#EXTINF:-1 tvg-id="15" tvg-logo="http://texas.bkdnet.xyz/assets/images/HISTORY TV HD1745033679.png" group-title="English",HISTORY TV HD
-http://texas.bkdnet.xyz/player.php?stream=15
-#EXTINF:-1 tvg-id="9" tvg-logo="http://texas.bkdnet.xyz/assets/images/TLC HD1745033484.png" group-title="English",TLC HD
-http://texas.bkdnet.xyz/player.php?stream=9
-#EXTINF:-1 tvg-id="62" tvg-logo="http://texas.bkdnet.xyz/assets/images/TRAVEL XP1745043118.png" group-title="English",TRAVEL XP
-http://texas.bkdnet.xyz/player.php?stream=62
-
-
-#EXTINF:-1 tvg-id="70" tvg-logo="http://texas.bkdnet.xyz/assets/images/HITZ MUSIC1745043478.png" group-title="English",HITZ MUSIC
-http://texas.bkdnet.xyz/player.php?stream=70
-
-#EXTINF:-1 tvg-id="85" tvg-logo="http://texas.bkdnet.xyz/assets/images/ALJAZEETA HD1745044358.png" group-title="English",ALJAZEETA HD
-http://texas.bkdnet.xyz/player.php?stream=85
-
-#EXTINF:-1 tvg-id="75" tvg-logo="http://texas.bkdnet.xyz/assets/images/SUPER HUNGAMA1745044022.png" group-title="Kids",SUPER HUNGAMA
-http://texas.bkdnet.xyz/player.php?stream=75
-#EXTINF:-1 tvg-id="50" tvg-logo="http://texas.bkdnet.xyz/assets/images/BAL BHARAT1745041576.png" group-title="Kids",BAL BHARAT
-http://texas.bkdnet.xyz/player.php?stream=50
-#EXTINF:-1 tvg-id="8" tvg-logo="http://texas.bkdnet.xyz/assets/images/CARTOON NETWORK1745033414.png" group-title="Kids",CARTOON NETWORK
-http://texas.bkdnet.xyz/player.php?stream=8
-#EXTINF:-1 tvg-id="68" tvg-logo="http://texas.bkdnet.xyz/assets/images/DURANTA TV1745043400.png" group-title="Kids",DURANTA TV
-http://texas.bkdnet.xyz/player.php?stream=68
-#EXTINF:-1 tvg-id="49" tvg-logo="http://texas.bkdnet.xyz/assets/images/HUNGAMA1745041551.png" group-title="Kids",HUNGAMA
-http://texas.bkdnet.xyz/player.php?stream=49
-#EXTINF:-1 tvg-id="46" tvg-logo="http://texas.bkdnet.xyz/assets/images/NICK1745041451.png" group-title="Kids",NICK
-http://texas.bkdnet.xyz/player.php?stream=46
-#EXTINF:-1 tvg-id="51" tvg-logo="http://texas.bkdnet.xyz/assets/images/NICK JR1745042397.png" group-title="Kids",NICK JR
-http://texas.bkdnet.xyz/player.php?stream=51
-#EXTINF:-1 tvg-id="48" tvg-logo="http://texas.bkdnet.xyz/assets/images/POGO1745041515.png" group-title="Kids",POGO
-http://texas.bkdnet.xyz/player.php?stream=48
-#EXTINF:-1 tvg-id="45" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONIC1745041154.png" group-title="Kids",SONIC
-http://texas.bkdnet.xyz/player.php?stream=45
-#EXTINF:-1 tvg-id="93" tvg-logo="http://texas.bkdnet.xyz/assets/images/SONY YAY1745045046.png" group-title="Kids",SONY YAY
-http://texas.bkdnet.xyz/player.php?stream=93
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="1" tvg-logo="http://texas.bkdnet.xyz/channel_logo/T-SPORTS-HD.png" group-title="Sports",T Sports Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=T-SPORTS-HD
+#EXTINF:-1 tvg-id="2" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY-SPORTS.5HD.png" group-title="Sports",Sony Sports 5Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY-SPORTS.5HD
+#EXTINF:-1 tvg-id="3" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.SPORTS.SEL.2.HD.png" group-title="Sports",Star Sports Sel 2 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.SPORTS.SEL.2.HD
+#EXTINF:-1 tvg-id="4" tvg-logo="http://texas.bkdnet.xyz/channel_logo/PTV-SPORTS-HD.jpg" group-title="Sports",Ptv Sports Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=PTV-SPORTS-HD
+#EXTINF:-1 tvg-id="5" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.SPORTS-SEL1.HD.png" group-title="Sports",Star Sports Sel1 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.SPORTS-SEL1.HD
+#EXTINF:-1 tvg-id="6" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.SPORTS2.HD.png" group-title="Sports",Star Sports2 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.SPORTS2.HD
+#EXTINF:-1 tvg-id="7" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.SPORTS2.HD.png" group-title="Sports",Sony Sports2 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.SPORTS2.HD
+#EXTINF:-1 tvg-id="8" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.SPORTS.3.png" group-title="Sports",Sony Sports 3
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.SPORTS.3
+#EXTINF:-1 tvg-id="9" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.SPORTS1.HD.png" group-title="Sports",Star Sports1 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.SPORTS1.HD
+#EXTINF:-1 tvg-id="10" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR-SPORTS.3.png" group-title="Sports",Star Sports 3
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR-SPORTS.3
+#EXTINF:-1 tvg-id="11" tvg-logo="http://texas.bkdnet.xyz/channel_logo/EUROSPORTS.HD.png" group-title="Sports",Eurosports Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=EUROSPORTS.HD
+#EXTINF:-1 tvg-id="12" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.SPORTS.4.png" group-title="Sports",Sony Sports 4
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.SPORTS.4
+#EXTINF:-1 tvg-id="13" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.SPORTS.1HD.png" group-title="Sports",Sony Sports 1Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.SPORTS.1HD
+#EXTINF:-1 tvg-id="14" tvg-logo="http://texas.bkdnet.xyz/channel_logo/FAST.SPORTS.HD.png" group-title="Sports",Fast Sports Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=FAST.SPORTS.HD
+#EXTINF:-1 tvg-id="15" tvg-logo="http://texas.bkdnet.xyz/channel_logo/A.SPORTS.HD.png" group-title="Sports",A Sports Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=A.SPORTS.HD
+#EXTINF:-1 tvg-id="16" tvg-logo="http://texas.bkdnet.xyz/channel_logo/JAMUNA.TV.png" group-title="Bangla",Jamuna Tv
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=JAMUNA.TV
+#EXTINF:-1 tvg-id="17" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NTV.HD.png" group-title="Bangla",Ntv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NTV.HD
+#EXTINF:-1 tvg-id="18" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BANGLA.VISION.HD.png" group-title="Bangla",Bangla Vision Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BANGLA.VISION.HD
+#EXTINF:-1 tvg-id="19" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SOMOY.TV.HD.png" group-title="Bangla",Somoy Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SOMOY.TV.HD
+#EXTINF:-1 tvg-id="20" tvg-logo="http://texas.bkdnet.xyz/channel_logo/CHANNEL.24.HD.png" group-title="Bangla",Channel 24 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=CHANNEL.24.HD
+#EXTINF:-1 tvg-id="21" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BTV.HD.png" group-title="Bangla",Btv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BTV.HD
+#EXTINF:-1 tvg-id="22" tvg-logo="http://texas.bkdnet.xyz/channel_logo/EKATTOR.TV.HD.png" group-title="Bangla",Ekattor Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=EKATTOR.TV.HD
+#EXTINF:-1 tvg-id="23" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BOISAKHI.TV.HD.png" group-title="Bangla",Boisakhi Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BOISAKHI.TV.HD
+#EXTINF:-1 tvg-id="24" tvg-logo="http://texas.bkdnet.xyz/channel_logo/EAKHON.TV.HD.png" group-title="Bangla",Eakhon Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=EAKHON.TV.HD
+#EXTINF:-1 tvg-id="25" tvg-logo="http://texas.bkdnet.xyz/channel_logo/INDEPENDENT.TV.png" group-title="Bangla",Independent Tv
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=INDEPENDENT.TV
+#EXTINF:-1 tvg-id="26" tvg-logo="http://texas.bkdnet.xyz/channel_logo/GAZI.TV.HD.png" group-title="Bangla",Gazi Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=GAZI.TV.HD
+#EXTINF:-1 tvg-id="27" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NAGORIK.TV.HD.png" group-title="Bangla",Nagorik Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NAGORIK.TV.HD
+#EXTINF:-1 tvg-id="28" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ATN.BANGLA.HD.png" group-title="Bangla",Atn Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ATN.BANGLA.HD
+#EXTINF:-1 tvg-id="29" tvg-logo="http://texas.bkdnet.xyz/channel_logo/CHANNEL.I.HD.png" group-title="Bangla",Channel I Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=CHANNEL.I.HD
+#EXTINF:-1 tvg-id="30" tvg-logo="http://texas.bkdnet.xyz/channel_logo/MASRANGA.TV.HD.png" group-title="Bangla",Masranga Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=MASRANGA.TV.HD
+#EXTINF:-1 tvg-id="31" tvg-logo="http://texas.bkdnet.xyz/channel_logo/DEEPTOTV.HD.png" group-title="Bangla",Deeptotv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=DEEPTOTV.HD
+#EXTINF:-1 tvg-id="32" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BIJOY.TV.HD.png" group-title="Bangla",Bijoy Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BIJOY.TV.HD
+#EXTINF:-1 tvg-id="33" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ETV.BANGLA.HD.png" group-title="Bangla",Etv Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ETV.BANGLA.HD
+#EXTINF:-1 tvg-id="34" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BANGLA.TV.HD.png" group-title="Bangla",Bangla Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BANGLA.TV.HD
+#EXTINF:-1 tvg-id="35" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZEE.BANGLA.HD.png" group-title="Bangla",Zee Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZEE.BANGLA.HD
+#EXTINF:-1 tvg-id="36" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SUN.BANGLA.HD.png" group-title="Bangla",Sun Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SUN.BANGLA.HD
+#EXTINF:-1 tvg-id="37" tvg-logo="http://texas.bkdnet.xyz/channel_logo/COLORS.BANGLA.HD.png" group-title="Bangla",Colors Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=COLORS.BANGLA.HD
+#EXTINF:-1 tvg-id="38" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.JALSHA.HD.png" group-title="Bangla",Star Jalsha Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.JALSHA.HD
+#EXTINF:-1 tvg-id="39" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ENTER10.BANGLA.png" group-title="Bangla",Enter10 Bangla
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ENTER10.BANGLA
+#EXTINF:-1 tvg-id="40" tvg-logo="http://texas.bkdnet.xyz/channel_logo/COLORS.HD.png" group-title="Entertainment",Colors Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=COLORS.HD
+#EXTINF:-1 tvg-id="41" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ANT.PICTURS.HD.png" group-title="Entertainment",Ant Picturs Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ANT.PICTURS.HD
+#EXTINF:-1 tvg-id="42" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZEE.TV.HD.png" group-title="Entertainment",Zee Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZEE.TV.HD
+#EXTINF:-1 tvg-id="43" tvg-logo="http://texas.bkdnet.xyz/channel_logo/COLORS.CINEPLEX.HD.png" group-title="Entertainment",Colors Cineplex Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=COLORS.CINEPLEX.HD
+#EXTINF:-1 tvg-id="44" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.ENT.HD.png" group-title="Entertainment",Sony Ent Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.ENT.HD
+#EXTINF:-1 tvg-id="45" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.PLUS.HD.png" group-title="Entertainment",Star Plus Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.PLUS.HD
+#EXTINF:-1 tvg-id="46" tvg-logo="http://texas.bkdnet.xyz/channel_logo/MNX.HD.png" group-title="Entertainment",Mnx Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=MNX.HD
+#EXTINF:-1 tvg-id="47" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ROMEDY.NOW.png" group-title="Entertainment",Romedy Now
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ROMEDY.NOW
+#EXTINF:-1 tvg-id="48" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZEE.CAFE.HD.png" group-title="Entertainment",Zee Cafe Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZEE.CAFE.HD
+#EXTINF:-1 tvg-id="49" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.AAT.png" group-title="Entertainment",Sony Aat
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.AAT
+#EXTINF:-1 tvg-id="50" tvg-logo="http://texas.bkdnet.xyz/channel_logo/HUM.MASALA.TV.png" group-title="Entertainment",Hum Masala Tv
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=HUM.MASALA.TV
+#EXTINF:-1 tvg-id="51" tvg-logo="http://texas.bkdnet.xyz/channel_logo/Lotus.TV.HD.png" group-title="Entertainment",Lotus Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=Lotus.TV.HD
+#EXTINF:-1 tvg-id="52" tvg-logo="http://texas.bkdnet.xyz/channel_logo/AXN.HD.png" group-title="Entertainment",Axn Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=AXN.HD
+#EXTINF:-1 tvg-id="53" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.BHARAT.HD.png" group-title="Entertainment",Star Bharat Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.BHARAT.HD
+#EXTINF:-1 tvg-id="54" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZEE.CINEMA.HD.png" group-title="Movies",Zee Cinema Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZEE.CINEMA.HD
+#EXTINF:-1 tvg-id="55" tvg-logo="http://texas.bkdnet.xyz/channel_logo/JALSHA.MOVIES.HD.png" group-title="Movies",Jalsha Movies Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=JALSHA.MOVIES.HD
+#EXTINF:-1 tvg-id="56" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.GOLD.HD.png" group-title="Movies",Star Gold Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.GOLD.HD
+#EXTINF:-1 tvg-id="57" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.MAX.HD.png" group-title="Movies",Sony Max Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.MAX.HD
+#EXTINF:-1 tvg-id="58" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.MOVIES.SEL.HD.png" group-title="Movies",Star Movies Sel Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.MOVIES.SEL.HD
+#EXTINF:-1 tvg-id="59" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.PIX.HD.png" group-title="Movies",Sony Pix Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.PIX.HD
+#EXTINF:-1 tvg-id="60" tvg-logo="http://texas.bkdnet.xyz/channel_logo/AND.FLIX.HD.png" group-title="Movies",And Flix Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=AND.FLIX.HD
+#EXTINF:-1 tvg-id="61" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.MOVIES.HD.png" group-title="Movies",Star Movies Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.MOVIES.HD
+#EXTINF:-1 tvg-id="62" tvg-logo="http://texas.bkdnet.xyz/channel_logo/MOVIES.NOW.HD.png" group-title="Movies",Movies Now Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=MOVIES.NOW.HD
+#EXTINF:-1 tvg-id="63" tvg-logo="http://texas.bkdnet.xyz/channel_logo/AND.PRIVE.HD.png" group-title="Movies",And Prive Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=AND.PRIVE.HD
+#EXTINF:-1 tvg-id="64" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZEE.BANGLA.CINEMA.png" group-title="Movies",Zee Bangla Cinema
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZEE.BANGLA.CINEMA
+#EXTINF:-1 tvg-id="65" tvg-logo="http://texas.bkdnet.xyz/channel_logo/COLORS.BANGLA.CINEMA.png" group-title="Movies",Colors Bangla Cinema
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=COLORS.BANGLA.CINEMA
+#EXTINF:-1 tvg-id="66" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.GOLD.SEL.HD.png" group-title="Movies",Star Gold Sel Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.GOLD.SEL.HD
+#EXTINF:-1 tvg-id="67" tvg-logo="http://texas.bkdnet.xyz/channel_logo/STAR.GOLD.2HD.png" group-title="Movies",Star Gold 2Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=STAR.GOLD.2HD
+#EXTINF:-1 tvg-id="68" tvg-logo="http://texas.bkdnet.xyz/channel_logo/mn-plus.png" group-title="Movies",Mn Plus Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=MN.PLUS.HD
+#EXTINF:-1 tvg-id="69" tvg-logo="http://texas.bkdnet.xyz/channel_logo/DBC.NEWS.HD.png" group-title="News",Dbc News Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=DBC.NEWS.HD
+#EXTINF:-1 tvg-id="70" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BBC.NEWS.png" group-title="News",Bbc News
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BBC.NEWS
+#EXTINF:-1 tvg-id="71" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ALJAZEERA.HD.png" group-title="News",Aljazeera Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ALJAZEERA.HD
+#EXTINF:-1 tvg-id="72" tvg-logo="http://texas.bkdnet.xyz/channel_logo/GEO.NEWS.HD.png" group-title="News",Geo News Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=GEO.NEWS.HD
+#EXTINF:-1 tvg-id="73" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ATN.NEWS.HD.png" group-title="News",Atn News Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ATN.NEWS.HD
+#EXTINF:-1 tvg-id="74" tvg-logo="http://texas.bkdnet.xyz/channel_logo/DW.NEWS.HD.png" group-title="News",Dw News Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=DW.NEWS.HD
+#EXTINF:-1 tvg-id="75" tvg-logo="http://texas.bkdnet.xyz/channel_logo/DISCOVERY.HD.png" group-title="Documentary",Discovery Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=DISCOVERY.HD
+#EXTINF:-1 tvg-id="76" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.BBC.EARTH.HD.png" group-title="Documentary",Sony Bbc Earth Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.BBC.EARTH.HD
+#EXTINF:-1 tvg-id="77" tvg-logo="http://texas.bkdnet.xyz/channel_logo/TLC.HD.png" group-title="Documentary",Tlc Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=TLC.HD
+#EXTINF:-1 tvg-id="78" tvg-logo="http://texas.bkdnet.xyz/channel_logo/HISTORY.TV.18.HD.png" group-title="Documentary",History Tv 18 Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=HISTORY.TV.18.HD
+#EXTINF:-1 tvg-id="79" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NATGEO.WILD.HD.png" group-title="Documentary",Natgeo Wild Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NATGEO.WILD.HD
+#EXTINF:-1 tvg-id="80" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NATGEO.HD.png" group-title="Documentary",Natgeo Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NATGEO.HD
+#EXTINF:-1 tvg-id="81" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ANIMAL.PLANET.HD.png" group-title="Documentary",Animal Planet Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ANIMAL.PLANET.HD
+#EXTINF:-1 tvg-id="82" tvg-logo="http://texas.bkdnet.xyz/channel_logo/XPLOR.HD.png" group-title="Documentary",Xplor Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=XPLOR.HD
+#EXTINF:-1 tvg-id="83" tvg-logo="http://texas.bkdnet.xyz/channel_logo/TRAVELXP.HD.png" group-title="Documentary",Travelxp Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=TRAVELXP.HD
+#EXTINF:-1 tvg-id="84" tvg-logo="http://texas.bkdnet.xyz/channel_logo/BBC.Earth.HD.png" group-title="Documentary",Bbc Earth Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=BBC.Earth.HD
+#EXTINF:-1 tvg-id="85" tvg-logo="http://texas.bkdnet.xyz/channel_logo/LOVE.NATURE.HD.png" group-title="Documentary",Love Nature Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=LOVE.NATURE.HD
+#EXTINF:-1 tvg-id="86" tvg-logo="http://texas.bkdnet.xyz/channel_logo/DURANTA.TV.HD.png" group-title="Kids",Duranta Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=DURANTA.TV.HD
+#EXTINF:-1 tvg-id="87" tvg-logo="http://texas.bkdnet.xyz/channel_logo/CARTON.NETWORK.HD.png" group-title="Kids",Carton Network Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=CARTON.NETWORK.HD
+#EXTINF:-1 tvg-id="88" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONIC.png" group-title="Kids",Sonic
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONIC
+#EXTINF:-1 tvg-id="89" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NICK.png" group-title="Kids",Nick
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NICK
+#EXTINF:-1 tvg-id="90" tvg-logo="http://texas.bkdnet.xyz/channel_logo/POGO.png" group-title="Kids",Pogo
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=POGO
+#EXTINF:-1 tvg-id="91" tvg-logo="http://texas.bkdnet.xyz/channel_logo/HUNGAMA.png" group-title="Kids",Hungama
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=HUNGAMA
+#EXTINF:-1 tvg-id="92" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ETV.BAL.BHARAT.png" group-title="Kids",Etv Bal Bharat
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ETV.BAL.BHARAT
+#EXTINF:-1 tvg-id="93" tvg-logo="http://texas.bkdnet.xyz/channel_logo/NICK.JR.png" group-title="Kids",Nick Jr
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=NICK.JR
+#EXTINF:-1 tvg-id="94" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SUPER.HUNGAMA.png" group-title="Kids",Super Hungama
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SUPER.HUNGAMA
+#EXTINF:-1 tvg-id="95" tvg-logo="http://texas.bkdnet.xyz/channel_logo/SONY.YAY.png" group-title="Kids",Sony Yay
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=SONY.YAY
+#EXTINF:-1 tvg-id="96" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZOOM.MUSIC.png" group-title="Music",Zoom Music
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZOOM.MUSIC
+#EXTINF:-1 tvg-id="97" tvg-logo="http://texas.bkdnet.xyz/channel_logo/ZING.MUSIC.png" group-title="Music",Zing Music
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=ZING.MUSIC
+#EXTINF:-1 tvg-id="98" tvg-logo="http://texas.bkdnet.xyz/channel_logo/PEACE.TV.BANGLA.HD.png" group-title="Religious",Peace Tv Bangla Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=PEACE.TV.BANGLA.HD
+#EXTINF:-1 tvg-id="99" tvg-logo="http://texas.bkdnet.xyz/channel_logo/MADANI.TV.HD.png" group-title="Religious",Madani Tv Hd
+http://tv1.fcnchbd.xyz/tvhub/player.php?id=MADANI.TV.HD
