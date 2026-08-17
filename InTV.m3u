@@ -72,7 +72,7 @@ http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",COLORS BANGLA HD
-http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
+http://103.175.73.12:8080/live/349/349_0.m3u8
 
 
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbjm.png",JALSHA MOVIES HD
