@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
+http://cdn.fcnonline.xyz:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
+http://cdn.fcnonline.xyz:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png",WILLOW HD
+http://cdn.fcnonline.xyz:8090/hls/willowcrickethd.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
+http://cdn.fcnonline.xyz:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN 2 HD
+http://cdn.fcnonline.xyz:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY TEN 3 HD
+http://cdn.fcnonline.xyz:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
+http://cdn.fcnonline.xyz:8090/hls/SonyTen5HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1HD
+http://cdn.fcnonline.xyz:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2HD
+http://cdn.fcnonline.xyz:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS 2HD HIN
+http://cdn.fcnonline.xyz:8090/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SEL 1HD
+http://cdn.fcnonline.xyz:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SEL 2HD
+http://cdn.fcnonline.xyz:8090/hls/StarSportsSelect2HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.28/images/eurosport.png",EUROSPORTS
+http://cdn.fcnonline.xyz:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.28/images/ptvsports.png",XTREAM SPORTS
+http://cdn.fcnonline.xyz:8090/hls/xtreamsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png",DD SPORTS
+http://cdn.fcnonline.xyz:8090/hls/ddsports.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.16.29.28/images/sony-ten-1.png",WORLD FREE SPORTS
+http://cdn.fcnonline.xyz:8090/hls/WorldofFreeSports.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/btv.png",BTV HD
+http://cdn.fcnonline.xyz:8090/hls/SkySportsCricketHD.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",GAZI TV
+http://cdn.fcnonline.xyz:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",CHANNEL I
+http://cdn.fcnonline.xyz:8090/hls/channelihd.m3u8
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png",JAMUNA TV
+http://cdn.fcnonline.xyz:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV
+http://cdn.fcnonline.xyz:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png",ATN NEWS
+http://cdn.fcnonline.xyz:8090/hls/AtnNews.m3u8
+
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png",SONY HD
+http://cdn.fcnonline.xyz:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
+http://cdn.fcnonline.xyz:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
+http://cdn.fcnonline.xyz:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS HD
+http://cdn.fcnonline.xyz:8090/hls/ColorsHD.m3u8
+
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
+http://cdn.fcnonline.xyz:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
+http://cdn.fcnonline.xyz:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
+http://cdn.fcnonline.xyz:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhcc.png",CINEPLEX HD
+http://cdn.fcnonline.xyz:8090/hls/ColorsCineplexHD.m3u8
+
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png",SONY AHTT HD
+http://cdn.fcnonline.xyz:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
+http://cdn.fcnonline.xyz:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
+http://cdn.fcnonline.xyz:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",COLORS BANGLA HD
+http://cdn.fcnonline.xyz:8090/hls/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbe10.png",ENTER10 BANGLA
+http://cdn.fcnonline.xyz:8090/hls/Enter10Bangla.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbjm.png",JALSHA MOVIES HD
+http://cdn.fcnonline.xyz:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",ZEE BANGLA CINEMA HD
+http://cdn.fcnonline.xyz:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsgt.png",SONGEET BANGLA
+http://cdn.fcnonline.xyz:8090/hls/SangeetBangla.m3u8
+
+
+#EXTINF:-1 group-title="ENG MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STARS MOVIES HD
+http://cdn.fcnonline.xyz:8090/hls/StarMoviesHD.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://172.16.29.28/images/discoveryhd.png",DISCOVERY KIDS
+http://cdn.fcnonline.xyz:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://172.16.29.28/images/cnhd.png",CARTOON NETWORK
+http://cdn.fcnonline.xyz:8090/hls/CartoonNetworkHD.m3u8
+
+#EXTINF:-1 group-title="DISCOVER" tvg-logo="http://172.16.29.28/images/bbcworldnews.png",BBC EARTH
+http://cdn.fcnonline.xyz:8090/hls/bbcearthhd.m3u8
+#EXTINF:-1 group-title="DISCOVER" tvg-logo="http://172.16.29.28/images/natgeo.png",NAT GEO WILD
+http://cdn.fcnonline.xyz:8090/hls/NatGeoWild.m3u8
+#EXTINF:-1 group-title="DISCOVER" tvg-logo="http://172.16.29.28/images/discoveryhd.png",DISCOVERY
+http://cdn.fcnonline.xyz:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 group-title="DISCOVER" tvg-logo="http://172.16.29.28/images/discoveryhd.png",ANIMAL PLANET
+http://cdn.fcnonline.xyz:8090/hls/AnimalPlanetHD.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="http://172.16.29.28/images/aljazeranews.png",ALJAZEERA NEWS
+http://cdn.fcnonline.xyz:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="http://172.16.29.28/images/bbcworldnews.png",BBC WORLD
+http://cdn.fcnonline.xyz:8090/hls/bbc_world.m3u8
