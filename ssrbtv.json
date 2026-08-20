@@ -1,0 +1,695 @@
+[
+    {
+        "stream_id": "101",
+        "name": "T Sports Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/T-SPORTS-HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=T-SPORTS-HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "102",
+        "name": "A Sports Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/A.SPORTS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=A.SPORTS.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "103",
+        "name": "Ptv Sports Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/PTV-SPORTS-HD.jpg",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=PTV-SPORTS-HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "104",
+        "name": "Star Sports1 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.SPORTS1.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.SPORTS1.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "105",
+        "name": "Star Sports2 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.SPORTS2.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.SPORTS2.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "106",
+        "name": "Star Sports Sel1 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.SPORTS-SEL1.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.SPORTS-SEL1.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "107",
+        "name": "Star Sports Sel 2 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.SPORTS.SEL.2.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.SPORTS.SEL.2.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "108",
+        "name": "Star Sports 3",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR-SPORTS.3.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR-SPORTS.3",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "109",
+        "name": "Sony Sports 5Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY-SPORTS.5HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY-SPORTS.5HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "110",
+        "name": "Sony Sports 1Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.SPORTS.1HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.SPORTS.1HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "111",
+        "name": "Sony Sports 2Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.SPORTS2.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.SPORTS2.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "112",
+        "name": "Sony Sports 3",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.SPORTS.3.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.SPORTS.3",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "113",
+        "name": "Sony Sports 4",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.SPORTS.4.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.SPORTS.4",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "114",
+        "name": "Fast Sports Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/FAST.SPORTS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=FAST.SPORTS.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "115",
+        "name": "Eurosports Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/EUROSPORTS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=EUROSPORTS.HD",
+        "category": "SPORTS"
+    },
+    {
+        "stream_id": "116",
+        "name": "Atn News Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ATN.NEWS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ATN.NEWS.HD",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "117",
+        "name": "Dbc News Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/DBC.NEWS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=DBC.NEWS.HD",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "118",
+        "name": "Jamuna Tv",
+        "image": "https:/fcnchbd.xyz/channel_logo/JAMUNA.TV.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=JAMUNA.TV",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "119",
+        "name": "Somoy Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SOMOY.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SOMOY.TV.HD",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "120",
+        "name": "Channel 24 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/CHANNEL.24.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=CHANNEL.24.HD",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "121",
+        "name": "Ekattor Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/EKATTOR.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=EKATTOR.TV.HD",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "122",
+        "name": "Independent Tv",
+        "image": "https:/fcnchbd.xyz/channel_logo/INDEPENDENT.TV.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=INDEPENDENT.TV",
+        "category": "BD NEWS"
+    },
+    {
+        "stream_id": "123",
+        "name": "Btv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BTV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BTV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "124",
+        "name": "Ntv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/NTV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NTV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "125",
+        "name": "Gazi Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/GAZI.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=GAZI.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "126",
+        "name": "Nagorik Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/NAGORIK.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NAGORIK.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "127",
+        "name": "Atn Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ATN.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ATN.BANGLA.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "128",
+        "name": "Channel I Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/CHANNEL.I.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=CHANNEL.I.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "129",
+        "name": "Masranga Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/MASRANGA.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=MASRANGA.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "130",
+        "name": "Deeptotv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/DEEPTOTV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=DEEPTOTV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "131",
+        "name": "Bijoy Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BIJOY.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BIJOY.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "132",
+        "name": "Etv Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ETV.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ETV.BANGLA.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "133",
+        "name": "Bangla Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BANGLA.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BANGLA.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "134",
+        "name": "Bangla Vision Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BANGLA.VISION.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BANGLA.VISION.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "135",
+        "name": "Boisakhi Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BOISAKHI.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BOISAKHI.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "136",
+        "name": "Eakhon Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/EAKHON.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=EAKHON.TV.HD",
+        "category": "BD BANGLA"
+    },
+    {
+        "stream_id": "137",
+        "name": "Enter10 Bangla",
+        "image": "https:/fcnchbd.xyz/channel_logo/ENTER10.BANGLA.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ENTER10.BANGLA",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "138",
+        "name": "Sony Aat Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.AAT.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.AAT",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "139",
+        "name": "Sun Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SUN.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SUN.BANGLA.HD",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "140",
+        "name": "Zee Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZEE.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZEE.BANGLA.HD",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "141",
+        "name": "Colors Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/COLORS.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=COLORS.BANGLA.HD",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "142",
+        "name": "Star Jalsha Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.JALSHA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.JALSHA.HD",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "143",
+        "name": "Jalsha Movies Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/JALSHA.MOVIES.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=JALSHA.MOVIES.HD",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "144",
+        "name": "Zee Bangla Cinema",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZEE.BANGLA.CINEMA.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZEE.BANGLA.CINEMA",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "145",
+        "name": "Colors Bangla Cinema",
+        "image": "https:/fcnchbd.xyz/channel_logo/COLORS.BANGLA.CINEMA.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=COLORS.BANGLA.CINEMA",
+        "category": "IND BANGLA"
+    },
+    {
+        "stream_id": "146",
+        "name": "Star Bharat Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.BHARAT.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.BHARAT.HD",
+        "category": "IND HINDI"
+    },
+    {
+        "stream_id": "147",
+        "name": "Star Plus Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.PLUS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.PLUS.HD",
+        "category": "IND HINDI"
+    },
+    {
+        "stream_id": "148",
+        "name": "Zee Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZEE.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZEE.TV.HD",
+        "category": "IND HINDI"
+    },
+    {
+        "stream_id": "149",
+        "name": "Colors Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/COLORS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=COLORS.HD",
+        "category": "IND HINDI"
+    },
+    {
+        "stream_id": "150",
+        "name": "Sony Ent Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.ENT.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.ENT.HD",
+        "category": "IND HINDI"
+    },
+    {
+        "stream_id": "151",
+        "name": "Sony Max Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.MAX.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.MAX.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "152",
+        "name": "Zee Cinema Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZEE.CINEMA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZEE.CINEMA.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "153",
+        "name": "Star Gold Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.GOLD.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.GOLD.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "154",
+        "name": "Star Gold 2Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.GOLD.2HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.GOLD.2HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "155",
+        "name": "Star Gold Sel Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.GOLD.SEL.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.GOLD.SEL.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "156",
+        "name": "Ant Picturs Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ANT.PICTURS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ANT.PICTURS.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "157",
+        "name": "Colors Cineplex Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/COLORS.CINEPLEX.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=COLORS.CINEPLEX.HD",
+        "category": "IND MOVIE"
+    },
+    {
+        "stream_id": "158",
+        "name": "And Flix Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/AND.FLIX.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=AND.FLIX.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "159",
+        "name": "Star Movies Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.MOVIES.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.MOVIES.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "160",
+        "name": "Star Movies Sel Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/STAR.MOVIES.SEL.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=STAR.MOVIES.SEL.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "161",
+        "name": "Sony Pix Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.PIX.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.PIX.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "162",
+        "name": "Movies Now Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/MOVIES.NOW.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=MOVIES.NOW.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "163",
+        "name": "And Prive Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/AND.PRIVE.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=AND.PRIVE.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "164",
+        "name": "Mn Plus Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/mn-plus.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=MN.PLUS.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "165",
+        "name": "Mnx Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/MNX.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=MNX.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "166",
+        "name": "Romedy Now",
+        "image": "https:/fcnchbd.xyz/channel_logo/ROMEDY.NOW.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ROMEDY.NOW",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "167",
+        "name": "Zee Cafe Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZEE.CAFE.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZEE.CAFE.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "168",
+        "name": "Lotus Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/Lotus.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=Lotus.TV.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "169",
+        "name": "Axn Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/AXN.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=AXN.HD",
+        "category": "ENG MOVIE"
+    },
+    {
+        "stream_id": "170",
+        "name": "Zoom Music",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZOOM.MUSIC.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZOOM.MUSIC",
+        "category": "Music"
+    },
+    {
+        "stream_id": "171",
+        "name": "Zing Music",
+        "image": "https:/fcnchbd.xyz/channel_logo/ZING.MUSIC.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ZING.MUSIC",
+        "category": "Music"
+    },
+    {
+        "stream_id": "172",
+        "name": "Peace Tv Bangla Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/PEACE.TV.BANGLA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=PEACE.TV.BANGLA.HD",
+        "category": "Religious"
+    },
+    {
+        "stream_id": "173",
+        "name": "Madani Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/MADANI.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=MADANI.TV.HD",
+        "category": "Religious"
+    },
+    {
+        "stream_id": "174",
+        "name": "Hum Masala Tv",
+        "image": "https:/fcnchbd.xyz/channel_logo/HUM.MASALA.TV.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=HUM.MASALA.TV",
+        "category": "Entertainment"
+    },
+    {
+        "stream_id": "175",
+        "name": "Bbc News",
+        "image": "https:/fcnchbd.xyz/channel_logo/BBC.NEWS.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BBC.NEWS",
+        "category": "News"
+    },
+    {
+        "stream_id": "176",
+        "name": "Aljazeera Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ALJAZEERA.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ALJAZEERA.HD",
+        "category": "News"
+    },
+    {
+        "stream_id": "177",
+        "name": "Geo News Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/GEO.NEWS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=GEO.NEWS.HD",
+        "category": "News"
+    },
+    {
+        "stream_id": "178",
+        "name": "Dw News Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/DW.NEWS.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=DW.NEWS.HD",
+        "category": "News"
+    },
+    {
+        "stream_id": "179",
+        "name": "Discovery Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/DISCOVERY.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=DISCOVERY.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "180",
+        "name": "Sony Bbc Earth Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.BBC.EARTH.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.BBC.EARTH.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "181",
+        "name": "Tlc Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/TLC.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=TLC.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "182",
+        "name": "History Tv 18 Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/HISTORY.TV.18.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=HISTORY.TV.18.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "183",
+        "name": "Natgeo Wild Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/NATGEO.WILD.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NATGEO.WILD.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "184",
+        "name": "Natgeo Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/NATGEO.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NATGEO.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "185",
+        "name": "Animal Planet Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/ANIMAL.PLANET.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ANIMAL.PLANET.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "186",
+        "name": "Xplor Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/XPLOR.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=XPLOR.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "187",
+        "name": "Travelxp Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/TRAVELXP.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=TRAVELXP.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "188",
+        "name": "Bbc Earth Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/BBC.Earth.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=BBC.Earth.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "189",
+        "name": "Love Nature Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/LOVE.NATURE.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=LOVE.NATURE.HD",
+        "category": "Documentary"
+    },
+    {
+        "stream_id": "190",
+        "name": "Duranta Tv Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/DURANTA.TV.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=DURANTA.TV.HD",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "191",
+        "name": "Carton Network Hd",
+        "image": "https:/fcnchbd.xyz/channel_logo/CARTON.NETWORK.HD.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=CARTON.NETWORK.HD",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "192",
+        "name": "Sonic",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONIC.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONIC",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "193",
+        "name": "Nick",
+        "image": "https:/fcnchbd.xyz/channel_logo/NICK.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NICK",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "194",
+        "name": "Pogo",
+        "image": "https:/fcnchbd.xyz/channel_logo/POGO.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=POGO",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "195",
+        "name": "Hungama",
+        "image": "https:/fcnchbd.xyz/channel_logo/HUNGAMA.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=HUNGAMA",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "196",
+        "name": "Nick Jr",
+        "image": "https:/fcnchbd.xyz/channel_logo/NICK.JR.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=NICK.JR",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "197",
+        "name": "Super Hungama",
+        "image": "https:/fcnchbd.xyz/channel_logo/SUPER.HUNGAMA.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SUPER.HUNGAMA",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "198",
+        "name": "Sony Yay",
+        "image": "https:/fcnchbd.xyz/channel_logo/SONY.YAY.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=SONY.YAY",
+        "category": "Kids"
+    },
+    {
+        "stream_id": "199",
+        "name": "Etv Bal Bharat",
+        "image": "https:/fcnchbd.xyz/channel_logo/ETV.BAL.BHARAT.png",
+        "stream": "http://ssrbtv.xyz/tvhub/player.php?id=ETV.BAL.BHARAT",
+        "category": "Kids"
+    }
+]
